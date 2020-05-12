@@ -7,10 +7,10 @@ master: This should always be working and ready for production!
 
 devel: Only for pre-releases. This should be the test branch before merging to master. **All custom function should have their own unit-test here!**
 
-2D: 2D Deep learning methodologies
+2D: ligand-based, 2D Deep learning methodologies to screen billions of compounds
 
-3D: 3D Deep learning methodologies
+3D: structural-based,  3D Deep learning methodologies to retrieve patterns out of the output of simulations
 
-simulation: Couple simulation analysis with optimization based algorithms (ML).
+simulation: Scripts to analyse the output of the simulation (sub-pocket, hbonds, pharmacophore...)
 
 
