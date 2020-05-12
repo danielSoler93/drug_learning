@@ -3,11 +3,11 @@ Open package with DL and ML tools for drug discovery. It is based in a 3 branch 
 
 ## To developers
 
-master: Only for production commits. This should always be working!
+master: This should always be working and ready for production!
 
-devel: Only for pre-releases. This should be the test branch before merging to master.
+devel: Only for pre-releases. This should be the test branch before merging to master. **All custom function should have their own unit-test here!**
 
-2D: D Deep learning methodologies
+2D: 2D Deep learning methodologies
 
 3D: 3D Deep learning methodologies
 
