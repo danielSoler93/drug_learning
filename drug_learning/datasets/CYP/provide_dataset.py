@@ -11,7 +11,7 @@ class CYPDataset:
     def __init__(self):
         self.train, self.test = DATASET
 
-    def get(self):
+    def get_X_Y(self):
         """
         Return training and test set for CYPs
         :return:

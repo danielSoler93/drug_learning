@@ -5,19 +5,22 @@ import drug_learning.two_dimension.Graph.graph as gp
 import drug_learning.two_dimension.Graph.helpers as hp
 
 
-def run():
+def get_graph_from_CYP_dataset():
     #move to generators
     dataset = cyp.CYPDataset()
-    train, test = dataset.get()
+    train, test = dataset.get_X_Y()
     train_smiles = train["SMILES"].values
     test_smiles = test["SMILES"].values
-    molecule_vectors_train = [gp.GraphBuilder(smile).build_graph() for smile in tqdm(train_smiles)]
-    molecule_vectors_test = [gp.GraphBuilder(smile).build_graph() for smile in tqdm(test_smiles)]
-    hp.save_dict_to_df({"graph_train.csv": molecule_vectors_train, "graph_test.csv": molecule_vectors_test})
+    get_graph(train_smiles, test_smiles)
+
+def get_graph(train_smiles, test_smiles):
+    graph_train = [gp.GraphBuilder(smile).build_graph() for smile in tqdm(train_smiles)]
+    graph_test = [gp.GraphBuilder(smile).build_graph() for smile in tqdm(test_smiles)]
+    hp.save_dict_to_df({"graph_train.csv": graph_train, "graph_test.csv": graph_test})
 
 
 
 
 
 if __name__ == "__main__":
-    run()
+    get_graph_from_CYP_dataset()
