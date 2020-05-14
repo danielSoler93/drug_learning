@@ -1,6 +1,8 @@
 from rdkit import Chem
+import pandas as pd
 import drug_learning.two_dimension.Graph.atoms as at
 import drug_learning.two_dimension.Graph.bonds as bd
+import drug_learning.two_dimension.Graph.custom_errors as ce
 
 bos={Chem.BondType.SINGLE:1.0,
      Chem.BondType.DOUBLE:2.0,
@@ -17,11 +19,19 @@ class GraphBuilder:
     def __init__(self, smiles):
         self.smiles = smiles
         self.mol = Chem.MolFromSmiles(self.smiles)
+        self.atomic_features = None
+        self.bond_features = None
+        self.molecule_features = None
 
     def build_graph(self):
-        atomic_features = self.build_atomic_features()
-        bond_features = self.build_bond_features()
-        
+        if self.mol is None:
+            return None
+        self.atomic_features = self.build_atomic_features()
+        self.bond_features = self.build_bond_features()
+        self.molecule_features = self.join_bond_atomic_features()
+        return self.molecule_features
+
+
 
 
     def build_atomic_features(self):
@@ -30,7 +40,8 @@ class GraphBuilder:
             Z = atom.GetAtomicNum()
             neighbours = atom.GetDegree()
             formal_charge= atom.GetFormalCharge()
-            atom = at.Atom(Z, neighbours, formal_charge)
+            index = atom.GetIdx()
+            atom = at.Atom(Z, neighbours, formal_charge, index)
             all_atoms.append(atom)
         return all_atoms
 
@@ -38,11 +49,27 @@ class GraphBuilder:
         all_bonds = []
         for atom in self.mol.GetAtoms():  #Order??
             for bond in atom.GetBonds():
-                connects = [bond.GetBeginAtom(), bond.GetEndAtom()]
-                aromatic = bond.GetIsAromatic()
+                connects = [bond.GetBeginAtom().GetIdx(), bond.GetEndAtom().GetIdx()]
+                aromatic = 1 if bond.GetIsAromatic() else 0
                 in_ring = 1 if bond.IsInRing() else 0
                 conjugated = 1 if bond.GetIsConjugated() else 0
-                order = bond.GetBondType()
+                order = bos[bond.GetBondType()]
                 bond = bd.Bond(order, aromatic, conjugated, in_ring, connects)
                 all_bonds.append(bond)
         return all_bonds
+
+    def join_bond_atomic_features(self):
+
+        if not self.atomic_features:
+            raise ce.MissAtomicFeatures("Missing atomic features. Call graph.build_atomic_features() first.")
+
+        if not self.bond_features:
+            raise ce.MissBondFeatures("Missing bond features. Call graph.build_bond_features() first.")
+
+        molecule_features = [0]*len(self.atomic_features)
+        for bond in self.bond_features:
+            for atom in bond.connects:
+                atomic_features = self.atomic_features[atom].get_vector()
+                bond_features = bond.get_vector()
+                molecule_features[atom] = atomic_features + bond_features
+        return molecule_features

@@ -10,3 +10,6 @@ class Bond:
         self.conjugated = conjugated
         self.in_ring = in_ring
         self.connects = connects
+
+    def get_vector(self):
+        return [self.order, self.aromatic, self.conjugated, *self.connects]
