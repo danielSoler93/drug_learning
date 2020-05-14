@@ -58,6 +58,7 @@ class GraphBuilder:
                 all_bonds.append(bond)
         return all_bonds
 
+    #Fix to meet paper
     def join_bond_atomic_features(self):
 
         if not self.atomic_features:
