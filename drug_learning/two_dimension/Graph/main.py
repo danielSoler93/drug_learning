@@ -1,5 +1,4 @@
 from tqdm import tqdm
-import pandas as pd
 import drug_learning.datasets.CYP.provide_dataset as cyp
 import drug_learning.two_dimension.Graph.graph as gp
 import drug_learning.two_dimension.Graph.helpers as hp
