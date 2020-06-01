@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 drug_learning/2D/logs/
+drug_learning/2D/logs_2/
 drug_learning/2D/hyperp_DD.err
 drug_learning/2D/hyperp_DD.out
