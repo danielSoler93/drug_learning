@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 drug_learning/2D/logs/
+drug_learning/2D/logs_2/
