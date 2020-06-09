@@ -34,11 +34,11 @@ def train_test_model(hparams):
 
 
 def run(run_dir, hparams):
-  with tf.summary.create_file_writer(run_dir).as_default():
-    hp.hparams(hparams)  # record the values used in this trial
-    accuracy, accuracy_val = train_test_model(hparams)
-    tf.summary.scalar("accuracy", accuracy, step=1)
-    tf.summary.scalar("accuracy_val", accuracy_val, step=1)
+    with tf.summary.create_file_writer(run_dir).as_default():
+        hp.hparams(hparams)  # record the values used in this trial
+        accuracy, accuracy_val = train_test_model(hparams)
+        tf.summary.scalar("accuracy", accuracy, step=1)
+        tf.summary.scalar("accuracy_val", accuracy_val, step=1)
 
 
 shared_data = pd.read_csv(os.path.join(PATH_DATA, "shared_set_cyp.csv"))
@@ -58,24 +58,24 @@ set_params = "extended"
 
 if set_params == "extended":
     HP_HIDDEN_LAYERS = hp.HParam("hidden_layers", hp.Discrete(list(range(2, 10))))
-    HP_NEURONS = hp.HParam("neurons", hp.Discrete([2**i for i in range(5,10)]))
+    HP_NEURONS = hp.HParam("neurons", hp.Discrete([2**i for i in range(5, 10)]))
     HP_DROPOUT = hp.HParam("dropout", hp.Discrete([0.2, 0.5]))
-    HP_OPTIMIZER = hp.HParam('optimizer', hp.Discrete(['adam', 'sgd','RMSprop']))
-    HP_L2 = hp.HParam('l2 regularizer', hp.Discrete([.001,.01]))
+    HP_OPTIMIZER = hp.HParam('optimizer', hp.Discrete(['adam', 'sgd', 'RMSprop']))
+    HP_L2 = hp.HParam('l2 regularizer', hp.Discrete([.001, .01]))
     HP_LR = hp.HParam("learning_rate", hp.Discrete([0.001, 0.01, 0.1, 1.0, 10.0]))
-    logs_path = 'logs/hparam_tuning'
+    logs_path = 'hyperparameters_tunning/morgan_fingerprints/logs/hparam_tuning'
 
 elif set_params == "reduced":
     HP_HIDDEN_LAYERS = hp.HParam("hidden_layers", hp.Discrete(list(range(3, 10))))
-    HP_NEURONS = hp.HParam("neurons", hp.Discrete([2**i for i in range(7,10)]))
+    HP_NEURONS = hp.HParam("neurons", hp.Discrete([2**i for i in range(7, 10)]))
     HP_DROPOUT = hp.HParam("dropout", hp.Discrete([0.2]))
     HP_OPTIMIZER = hp.HParam('optimizer', hp.Discrete(['sgd']))
     HP_L2 = hp.HParam('l2 regularizer', hp.Discrete([.001]))
     HP_LR = hp.HParam("learning_rate", hp.Discrete([0.001, 0.01, 0.1, 1.0, 10.0]))
-    logs_path = "logs_2/hparam_tuning"
+    logs_path = "hyperparameters_tunning/morgan_fingerprints/logs_2/hparam_tuning"
 
 with tf.summary.create_file_writer(logs_path).as_default():
-    hp.hparams_config(hparams=[HP_HIDDEN_LAYERS,HP_NEURONS, HP_DROPOUT, HP_OPTIMIZER, HP_L2, HP_LR],
+    hp.hparams_config(hparams=[HP_HIDDEN_LAYERS, HP_NEURONS, HP_DROPOUT, HP_OPTIMIZER, HP_L2, HP_LR],
                       metrics=[hp.Metric("accuracy", display_name='Accuracy'), hp.Metric("accuracy_val", display_name="Validation_accuracy")])
 
 session_num = 0
