@@ -133,3 +133,4 @@ drug_learning/2D/logs_2/
 drug_learning/2D/hyperp_DD.err
 drug_learning/2D/hyperp_DD.out
 drug_learning/2D/confusion_matrix_plots*/
+drug_learning/2D/hyperparameters_tunning/
