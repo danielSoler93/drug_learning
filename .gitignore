@@ -135,3 +135,4 @@ drug_learning/2D/hyperp_DD.out
 drug_learning/2D/confusion_matrix_plots*/
 drug_learning/2D/hyperparameters_tunning/
 drug_learning/2D/features/*csv
+drug_learning/2D/set_size_MACCS/
