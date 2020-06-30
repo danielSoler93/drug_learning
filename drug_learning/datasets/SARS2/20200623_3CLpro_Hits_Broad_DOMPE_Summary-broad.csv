@@ -1,0 +1,166 @@
+Compound Id,NAME,DTT sensitivity (if > 30 % loss of activity at 20 µM),Inhibition [%] Primary Screen (single point; 20 µM),"HC
+Inhibition [%] (triplicate, 20 µM)","HC
+ AV Inhibition [%] (triplicate, 20 µM)
+slope","AV inhibition +DTT 15min 
+duplicates",3CL-Pro IC50-15min (µM) (triplicates),"3CLpro
+ IC50 slope (µM) (triplicates)",%inhibition_d03-KU_LW,%Inh in caco2 cells,MOA,Target,Phase,SubCategory,Chemically reactive
+SPE_K61443650,THIMEROSAL,sensitiv,"100,15","99,73","99,82","38,99","0,01","0,09","-31,65","79,39",other antibiotic,OXCT1,Launched,Antibacterial,Y
+SPE_K74193284,PHENYLMERCURIC ACETATE,PHENYLMERCURIC ACETATE,"100,16","100,47","97,66","84,66","0,01","0,06","-43,99","46,41",other antifungal,other,Preclinical,Antibacterial,Y
+SPE_K72327355,baicalein,sensitiv,"97,8","95,96","82,52","-20,06","0,02","0,88","5,07","-5,61",lipoxygenase inhibitor,"ALOX5, GLO1, PREP, SELL, SELP, TNF, XDH",Preclinical,Enzyme,N
+SPE_K29359156,EBSELEN,sensitiv,"99,99","100,38","99,67","-16,34","0,03","0,05","-2,87","4,96","cyclooxygenase inhibitor, glutathione peroxidase agonist, H+/K+-ATPase inhibitor, nitric oxide synthase inhibitor",ALB,Phase 2/Phase 3,Enzyme,Y
+SPE_K32730239,SU3327,sensitiv,"99,9","100,26","99,65","25,93","0,03",0,"-33,06","3,52",JNK inhibitor,MAPK8,Preclinical,Kinase,possibly
+SPE_K29254801,THIRAM,sensitiv,"99,88","99,92","99,62","12,72","0,05","0,08","-14,73","22,44",,JAK2,Launched,Other,Y
+SPE_A56592690,PX-12,sensitiv,"100,06","99,84","99,71","7,75","0,14","0,46","-0,69","6,95",thioredoxin inhibitor,"TXN, TXNRD1",Phase 2,Enzyme,Y
+SPE_A61194565,BENSERAZIDE HYDROCHLORIDE,sensitiv,"99,45","99,49","97,95","-8,69","0,14","0,38","-31,28","-1,43",DOPA decarboxylase inhibitor,DDC,Launched,Enzyme,N
+SPE_K81330143,Tideglusib,sensitiv,"90,94","99,30","99,28","-4,89","0,15","0,14","-3,46","-2,12",glycogen synthase kinase inhibitor,GSK3B,Phase 2,Kinase,Y
+SPE_K34149328,bonaphthone,sensitiv,"95,47","99,37","100,31","37,44","0,16","0,38","-1,01","-4,75",,other,Phase 3,Other,Y
+SPE_K01614093,Dihydromyricetin,sensitiv,"99,7","99,67","99,36","-14,30","0,18","0,3","1,12","-1,32",,other,Preclinical,Other,N
+SPE_A28431708,Auranofin,Auranofin,"100,23","99,58","84,31","75,61","0,21","0,69","-29,91","12,83",,,,,Y
+SPE_K80970344,pyrrolidine-dithiocarbamate,sensitiv,"100,75","99,48","99,67","-11,26","0,21","0,86","0,33","-4,76",NFkB pathway inhibitor,"HSD11B1, RELA",Preclinical,Enzyme,Y
+SPE_K32744045,DISULFIRAM,sensitiv,"99,73","99,92","99,49","36,15","0,22","0,55","-21,56","0,44","aldehyde dehydrogenase inhibitor, DNA methyltransferase inhibitor, TRPV agonist","ALDH2, DBH",Launched,DNA-RNA-Viral,Y
+SPE_K78342372,Hematoxylin (Hydroxybrazilin),sensitiv,"99,59","100,92","99,32","24,72","0,22","0,17","-7,28","-7,34",,other,Preclinical,Other,N
+SPE_K08893438,CCG 50014,sensitiv,"100,54","100,28","99,50","2,39","0,23","0,43","-4,05","-0,64",G protein signaling inhibitor,"RGS4, RGS8",Preclinical,Enzyme,N
+SPE_K21771665,MERBROMIN,MERBROMIN,"100,92","100,02","100,30","96,68","0,24","0,76","-49,28","15,99",antiseptic,other,Launched,Enzyme,Y
+SPE_K26530649,carboxypyridine-disulfide,sensitiv,"100,32","98,87","99,73","1,52","0,24","0,32","4,33","-4,06",,other,Phase 2,Other,Y
+SPE_K33308633,INCA-6,sensitiv,"99,24","100,42","100,09","-14,27","0,24","0,44","3,2","23,75",calcineurin inhibitor,NFATC1,Preclinical,Enzyme,Y
+SPE_K39706510,MIRA-1,sensitiv,"100,11","100,05","99,64","-9,02","0,29","0,82","-3,57","-3,00",apoptosis stimulant,other,Preclinical,Enzyme,Y
+SPE_K73982490,BI-78D3,sensitiv,"96,41","101,15","99,60","21,23","0,3","0,9","-22,67","-6,41",JNK inhibitor,,,,possibly
+SPE_K48963429,riodoxol,sensitiv,"99,73","98,93","99,44","-18,76","0,33","0,64","-1,52","9,24",other antibiotic,other,Launched,Antibacterial,possibly
+SPE_K43149758,Myricetin (Cannabiscetin),sensitiv,"100,32","100,07","97,23","-9,96","0,4","1,12","1,9","-2,92","androgen receptor agonist, cytochrome P450 inhibitor",PIK3CG,Preclinical,NHR,N
+SPE_K54395039,PR-619,PR-619,"97,57","98,84","99,68","97,92","0,41","0,82","-34,29","3,19",DUB inhibitor,other,Preclinical,Enzyme,Y
+SPE_K33457401,BRONOPOL,sensitiv,"99,89","100,48","99,44","-5,66","0,42","0,72","17,6","-9,83",,other,Launched,Other,Y
+SPE_K54098378,NT157,sensitiv,"79,36","78,14","79,49","-4,64","0,48","0,94","2,86","5,11",IGF-1 inhibitor,IGF1R,Preclinical,Kinase,Y
+SPE_K38727704,IPA-3,sensitiv,"91,25","98,46","98,95","-61,13","0,51","1,14","0,59","5,22",p21 activated kinase inhibitor,PAK1,Preclinical,Kinase,Y
+SPE_K76022557,APOMORPHINE HYDROCHLORIDE,sensitiv,"79,01","83,67","94,81","-23,03","0,52","0,72","0,22","0,61",dopamine receptor agonist,"DRD2, HTR5A",Launched,GPCR,N
+SPE_K40624912,ZM-39923,sensitiv,"75,66","78,16","86,76","6,02","0,58","1,57","-25,86","4,81",JAK inhibitor,"JAK1, JAK3",Preclinical,Kinase,N
+SPE_K68928792,Aldoxorubicin,sensitiv,"100,9","100,66","99,64","-9,50","0,58","1,25","-7,53","1,62",topoisomerase inhibitor,TOP2A,Phase 3,DNA-RNA-Viral,Y
+SPE_K86972824,OLTIPRAZ,sensitiv,"93,83","97,56","101,75","1,56","0,62","1,44","6,11","5,22","nuclear factor erythroid derived, like (NRF2) activator",ANG,Phase 3,NHR,Y
+SPE_K66898851,SANGUINARIUM CHLORIDE,sensitiv,"-57,31","13,95","72,52","-23,10","0,64","1,21","-44,98","-7,51",apoptosis stimulant,CASP3,Phase 1,Enzyme,Y
+SPE_A79857384,Captan,sensitiv,"99,84","100,34","100,09","9,79","0,67","1,39","-25,08","8,18",,other,Phase 1,Other,Y
+SPE_K55591206,(-)-Epigallocatechin Gallate,sensitiv,"95,26","98,89","97,04","-22,36","0,72","1,29","-1,41","6,28",bacterial DNA gyrase inhibitor,"ELANE, EP300, FASN, KAT2B, MMP14, MMP2",Phase 2/Phase 3,Antibacterial,N
+SPE_A39390670,Rabeprazole (sodium),sensitiv,"94,26","94,20","96,66","-10,54","0,74","1,3","0,71","4,39","ATPase inhibitor, gastrin inhibitor",ATP4A,Launched,Enzyme,N
+SPE_M11664367,silver-sulfadiazine,sensitiv,"99,7","100,55","99,80","-0,97","0,75","1,8","-22,9","6,05",PABA antagonist,other,Launched,Enzyme,Y
+SPE_K64191834,"CBS, N-Cyclohexyl-2-benzothiazolesulfenamide",sensitiv,"70,06","69,59","-12,11","-16,44","0,77","48,64","-5,75","43,36",,,,,Y
+SPE_K15025317,BAY-11-7082,sensitiv,"95,73","99,60","99,44","-12,50","0,82","1,56","-32,64","0,23",NFkB pathway inhibitor,RELA,Preclinical,Enzyme,Y
+SPE_K68408467,PROFLAVINE HEMISULFATE,sensitiv,"60,89","76,55","99,87","20,41","0,83","2,02","19,09","95,79",topical anesthetic,F2,Phase 2,Protease,N
+SPE_K40331046,CR8-(R),sensitiv,"99,45","99,90","97,64","1,59","0,84","2,35","-6,33","76,63",CDK inhibitor,CCNA2,Preclinical,Kinase,N
+SPE_K48684885,BAY-11-7085,sensitiv,"100,48","98,95","99,34","-7,90","0,84","2,74","-35,68","3,21",NFkB pathway inhibitor,NFKBIA,Preclinical,Enzyme,Y
+SPE_K91509126,piceatannol,sensitiv,"-78,95","9,91","51,45","-88,48","0,84","3,79","-0,4","-3,77",SYK inhibitor,"ATP5A1, ATP5B, ATP5C1, IRF3",Preclinical,Kinase,N
+SPE_M75036822,hemin,hemin,"96,57","101,08","96,43","100,99","0,88","2,1","-4,79","62,89",enzyme inducer,other,Launched,Other,N
+SPE_K36889451,Tetramethylthiuram monosulfide,sensitiv,"99,93","99,85","99,67","-6,75","0,94","1,5","-11,69","19,33",,other,Preclinical,Other,Y
+SPE_A42270467,TENATOPRAZOLE,sensitiv,"69,12","90,15","97,05","-9,75","0,97","2,73","-5,45","-1,51",ATPase inhibitor,IDO1,Phase 2,Enzyme,N
+SPE_K29562203,SCH-202676,sensitiv,"99,76","100,02","99,81","-11,62","0,98","1,28","-11,71","0,51",,,,,Y
+SPE_K31471398,dihydrexidine,sensitiv,"98,33","98,95","97,46","-15,06","1,05","1,37","16,67","-0,75",dopamine receptor agonist,"DRD1, DRD2, DRD3, DRD4, DRD5",Phase 2,GPCR,N
+SPE_A53134341,Ro-106-9920,sensitiv,"99,95","98,77","97,74","19,87","1,12","5,36","-39,1","-2,43",NFkB pathway inhibitor,other,Preclinical,Enzyme,N
+SPE_K79555887,RI-1,sensitiv,"99,17","100,11","99,75","15,24","1,14","1,63","-7,96","-14,63",,RAD51,Preclinical,Other,Y
+SPE_K95676198,JAK3-inhibitor-V,sensitiv,"94,54","92,27","90,56","-11,79","1,24","3,45","-2,14","7,11",JAK inhibitor,JAK3,Preclinical,Kinase,Y
+SPE_K26502378,VANITIOLIDE,sensitiv,"99,97","99,41","98,38","-0,97","1,32","3,47","-1,02","0,86",,other,Preclinical,Other,Y
+SPE_K62790656,caracemide,sensitiv,"96,39","94,71","45,83","17,48","1,33","5,68","-2,56","27,85",ribonucleotide reductase inhibitor,RRM1,Phase 2,Enzyme,Y
+SPE_K14274271,XL228,sensitiv,"44,75","99,19","91,79","-9,58","1,49","4,39","-18,81","4,95","Abl kinase inhibitor, insulin growth factor receptor inhibitor, src inhibitor","IGF1R, SRC",Phase 1,Kinase,N
+SPE_A30370660,SENNOSIDE A,SENNOSIDE A,"103,3","100,33","82,95","101,21","1,59","3,99","3,34","-10,64",glycoside agonist,other,Launched,Enzyme,N
+SPE_K88701661,dimercaptosuccinic-acid,sensitiv,"98,94","98,43","97,95","-8,73","1,72","3,85","0,36","30,07",chelating agent,DNMT1,Launched,Other,Y
+SPE_A89825407,aurothioglucose,sensitiv,"97,27","98,36","98,53","30,05","1,74","3,44","5,59","2,42",PKC inhibitor,PRKCI,Launched,Kinase,Y
+SPE_K55160477,Benzo[d]thiazole-2(3H)-thione,sensitiv,"93,96","63,55","14,61","-5,69","1,74","3,66","-0,06","24,60",,,,,Y
+SPE_A91031770,SB-268262,SB-268262,"96,73","100,33","99,89","73,76","1,87","3,62","-37,35","3,99",,,,,N
+SPE_M87138257,Acriflavine hydrochloride,Acriflavine hydrochloride,59,"67,97","99,10","68,22","1,93","5,1","-26,74","69,41",hypoxia inducible factor inhibitor,HIF1A,Launched,Enzyme,Y
+SPE_K13629382,eseroline-(-),sensitiv,"91,54","75,47","48,89","-0,64","1,99","4,22","-32,35","-3,78",acetylcholinesterase inhibitor,"OPRD1, OPRM1",Preclinical,Protease,N
+SPE_K49597925,SB-747651A,sensitiv,"96,16","96,90","88,17","0,27","2,07","5,27","10,78","2,33",,,,,N
+SPE_K53156781,omega-(4-Iodophenyl)pentadecanoic acid,sensitiv,95,"98,38","96,65","4,00","2,25","4,86","1,34","3,32",,other,Preclinical,Other,N
+SPE_K73027814,oxyfedrine,sensitiv,"90,8","90,54","84,50","-7,26","2,35","6,34","1,3","6,41",adrenergic receptor agonist,other,Launched,GPCR,N
+SPE_K16136380,PYRITHIONE ZINC,sensitiv,"99,65","99,25","99,02","-19,03","2,46","4,73","-37,47","10,39",ATP synthase inhibitor,"KCNQ1, KCNQ2, KCNQ4, KCNQ5",Launched,Enzyme,Y
+SPE_A09838294,Oridonin (Isodonol),sensitiv,"98,2","95,09","83,91","1,82","2,57","5,18","-30,2","-4,10",BCL inhibitor,BCL2,Preclinical,,N
+SPE_A87130939,Nordihydroguaiaretic acid,sensitiv,"98,51","66,91","53,19","-13,95","2,59","2,68","-3,02","21,40",lipoxygenase inhibitor,ALOX5,Launched,Enzyme,N
+SPE_A88548664,SKF-38393,sensitiv,"99,85","99,87","96,78","-11,34","2,63","2,92","14,07","0,27",dopamine receptor agonist,"CALY, DRD1, DRD5",Preclinical,GPCR,N
+SPE_K09426783,TAS-103 (dihydrochloride),sensitiv,"96,13","97,46","90,69","42,19","2,99","4,68","-10,25","92,56",topoisomerase inhibitor,TOP1,Phase 1,DNA-RNA-Viral,N
+SPE_K01493881,apigenin,sensitiv,"94,54","97,48","94,09","-9,22","3,02","8,48","6,35","-2,89","casein kinase inhibitor, cell proliferation inhibitor","AKR1B1, AR, CDK6, CFTR, CYP19A1, CYP1B1, HSD17B1",Preclinical,Kinase,Y
+SPE_A00842753,Oleuropein,sensitiv,"93,79","99,58","97,10","-15,31","3,38","3,34","0,29","-0,51",estrogen receptor agonist,GPER1,Phase 2,NHR,N
+SPE_K18898553,Salvianolic Acid B,sensitiv,"90,8","88,03","89,76","-1,77","3,42","5,44","-5,08","4,81","metalloproteinase inhibitor, EGFR inhibitor",MMP9,Phase 2,Protease,Y
+SPE_A69512159,CARBIDOPA,sensitiv,"90,73","94,48","91,29","-7,65","3,55","3,81","-2,21","4,56",,,,,N
+SPE_K29834313,Myricitrin (Myricitrine),sensitiv,"90,56","77,87","36,72","-10,29","3,66","5,41","-3,21","-11,41",PKC inhibitor,"NOS1, PRKCA",Preclinical,Kinase,N
+SPE_K69172251,CISPLATIN,sensitiv,"100,19","97,67","83,02","3,97","3,82","13,93","6,88","-6,40","DNA alkylating agent, DNA synthesis inhibitor",XIAP,Launched,DNA-RNA-Viral,Y
+SPE_K20313525,rosmarinic-acid,sensitiv,"95,67","94,92","94,14","-17,76","3,86","4,96","8,26","-7,31",GABA transaminase inhibitor,"MCL1, TYR",Launched,Enzyme,Y
+SPE_K34068325,Delavirdine (mesylate),Delavirdine (mesylate),"81,96","86,67","87,01","67,54","3,99","9,94","2,87","-1,61",non-nucleoside reverse transcriptase inhibitor,CYP3A4,Launched,Enzyme,N
+SPE_K90817094,Bedaquiline,sensitiv,"99,45","95,66","93,96","-11,09","4,36","6,37","-5,76","6,62",ATPase inhibitor,other,Launched,Enzyme,N
+SPE_K65716359,exifone,sensitiv,"95,46","91,64","71,37","-13,46","4,38","11,26","3,68","-1,48",nootropic agent,TYR,Withdrawn,Enzyme,N
+SPE_K36201510,Verbascoside,sensitiv,"94,19","95,36","97,52","-16,78","4,54","5,3","-5,69","-2,07","PKC inhibitor, NFkB pathway inhibitor",other,Phase 2/Phase 3,Kinase,N
+SPE_K49788188,heclin,sensitiv,"57,09","64,65","-4,95","-30,47","4,95","10,28","-1,19","42,36",,,,,Y
+SPE_K97874492,ACRIFLAVINIUM HYDROCHLORIDE,sensitiv,"75,15","82,15","97,08","-1,10","4,98","9,76","9,74","99,52",hypoxia inducible factor inhibitor,HIF1A,Launched,Enzyme,Y
+SPE_K38860038,JK-184,sensitiv,76,"81,19","83,32","-23,74","5,05","10,27","-2,17","65,21",hedgehog pathway inhibitor,other,Preclinical,Enzyme,N
+SPE_K97360717,N-oxydiethylenebenzothiazole-2-sulfenamide,sensitiv,"98,98","99,82","99,24","-2,93","5,05","8,43","1,94","64,61",,other,Preclinical,Other,Y
+SPE_K82028950,CGH2466,sensitiv,"46,84","76,32","57,37","-20,44","5,37","10,39","-0,89","2,62",adenosine receptor antagonist,"ADORA1, ADORA2B, ADORA3",Preclinical,GPCR,N
+SPE_A58955223,sulforaphane,sulforaphane,89,"77,59","-2,13","63,45","5,48","166,06","-2,71","94,22","anticancer agent, aryl hydrocarbon receptor antagonist",NFE2L2,Phase 2,NHR,Y
+SPE_K58146797,"5-(4chlorophenyl)-4-ethyl-2,4-dihydro-3H-1,2,4-triazol-3-one",sensitiv,"98,2","68,88","19,92","7,35","5,65","14,31","11,89","-9,44",,,,,N
+SPE_A93699261,Sodium Danshensu,sensitiv,"94,76","85,56","67,70","-9,07","5,71","8,94","-1,51","-1,02",,other,Preclinical,Other,N
+SPE_K42497885,Satraplatin,sensitiv,"95,86","95,86","78,03","-13,15","5,72","10,3","-17,36","13,33",,,,,Y
+SPE_K05919151,Dixanthogen,sensitiv,"99,06","94,65","88,67","1,38","5,97","10,12","6,13","4,91",,other,Preclinical,Other,Y
+SPE_K63169195,U-0124,sensitiv,"53,29","88,81","34,65","-9,69","6,17","12,33","-0,91","17,66",MEK inhibitor,other,Preclinical,Kinase,Y
+SPE_K75649340,thioguanosine,sensitiv,"100,08","79,58","41,48","12,03","6,31","9,91","16,05","110,58",purine antagonist,other,Phase 2,Enzyme,Y
+SPE_K95573441,PFK-015,sensitiv,"98,32","95,01","85,50","3,68","6,48","9,61","-20,02","101,32",phosphofructokinase inhibitor,PFKFB3,Phase 1,Kinase,Y
+SPE_K46648676,gallium-triquinolin-8-olate,sensitiv,"71,27","83,61","47,89","6,88","6,49","9,73","-4,81","0,04",,other,Phase 1,Other,Y
+SPE_K63712959,Temoporfin,sensitiv,"82,44","77,84","5,80","-16,60","6,55","45,05","4,51","85,92",radical formation stimulant,other,Launched,Enzyme,N
+SPE_A56892734,Esomeprazole magnesium trihydrate,sensitiv,"94,74","99,74","96,87","-6,78","6,92",10,"-3,33","26,41",proton pump inhibitor,"ATP4A, ATP4B",Launched,Channel,N
+SPE_A49172652,LANSOPRAZOLE,sensitiv,"97,15","98,57","96,07","-12,10","7,25","10,83","1,65","19,31",ATPase inhibitor,"ATP4A, ATP4B",Launched,Enzyme,N
+SPE_K28010364,PFK-158,sensitiv,"52,44","79,20","47,53","14,83","7,65","10,42","0,32","1,89",phosphofructokinase inhibitor,PFKFB3,Phase 1,Kinase,Y
+SPE_K24548560,EVANS BLUE,EVANS BLUE,"102,42","102,08","84,04","102,29","9,05","12,62","-16,19","34,84",glutamate receptor negative allosteric modulator,"GRIA1, PTPN1",Launched,GPCR,N
+SPE_K11244467,Ambazone,sensitiv,"97,48","93,26","75,57","1,78","9,3","13,25","5,43","11,56",DNA damage inducer,other,Phase 1,DNA-RNA-Viral,Y
+SPE_K56483981,chicago-sky-blue-6b,chicago-sky-blue-6b,"100,9","94,51","30,70","100,29","9,82","73,05","-14,16","18,86","glutamate inhibitor, macrophage migration inhibiting factor inhibitor",MIF,Preclinical,GPCR,N
+SPE_K40654626,ditiocarb-sodium-trihydrate,sensitiv,"96,58","89,89","60,30","-13,87","10,26","10,69","-0,14","12,55",,,,,Y
+SPE_A09094913,STRYCHNINE SULFATE,sensitiv,"76,52","79,75","1,20","3,15","10,37","30,36","-14,11","29,04",acetylcholine receptor antagonist,"CHRM1, CHRM2, CHRM3, CHRM4, CHRM5, CHRNA10, CHRNA9, GLRA1, GLRA2, GLRA3, GLRB",Preclinical,GPCR,N
+SPE_K26134695,calpeptin,calpeptin,"72,3","57,50","-76,82","63,28","10,97","70,14","4,3","9,55",calpain inhibitor,other,Preclinical,Protease,Y
+SPE_K82147103,lofepramine,sensitiv,"81,74","68,10","-10,06","-24,06","11,42","34,27","-0,02","40,87","norepinephrine reuptake inhibitor, serotonin–norepinephrine reuptake inhibitor (SNRI)","HTR1A, SLC6A2, SLC6A4",Launched,GPCR,N
+SPE_K92980438,3-Bromopyruvic acid,sensitiv,"78,92","74,01","21,38","-18,73","11,5","6184238,96","4,74","10,28",hexokinase inhibitor,HK2,Preclinical,Kinase,Y
+SPE_K60348325,Brilliant Green,sensitiv,"98,19","86,93","34,09","-16,36","11,55","36,56","-43,18","5,47",,other,Launched,Other,Y
+SPE_K78126613,MENADIONE,MENADIONE,"74,45","89,62","53,24","77,53","11,58","111,36","1,79","4,30","mitochondrial DNA polymerase inhibitor, phosphatase inhibitor","AOX1, BGLAP, F10, F2, F7, F9, GGCX, NQO1, NQO2, PROC, PROS1, PROZ, VKORC1, VKORC1L1",Launched,DNA-RNA-Viral,Y
+SPE_A72297358,ozolinone,sensitiv,"76,35","72,91","-6,13","3,46","11,64","35,3","13,43","2,47",diuretic,other,Phase 3,Other,Y
+SPE_K09126848,Nepicastat (hydrochloride),sensitiv,"97,31","57,25","19,16","-15,20","12,26","8,24","-0,9","-2,48",dopamine beta hydroxylase inhibitor,DBH,Phase 2,Enzyme,Y
+SPE_K24715592,ETHACRIDINE LACTATE,ETHACRIDINE LACTATE,"-168,35","-56,20","95,14","-84,30","12,35","0,9","0,2","4,01",DNA intercalating agent,other,Preclinical,DNA-RNA-Viral,N
+SPE_K35573744,erbstatin-analog,sensitiv,"68,58","52,73","94,99","-54,61",13,"2,96","-8,34","-26,12","EGFR inhibitor, tyrosine kinase inhibitor",EGFR,Preclinical,Kinase,Y
+SPE_K60230970,MG-132,MG-132,"68,52","78,61","-29,72","81,07","13,15",0,"-12,18","-11,44",proteasome inhibitor,PSMB1,Preclinical,Protease,Y
+SPE_K76841105,Tazarotene (Avage),Tazarotene (Avage),"-880,1","-692,49","108,07","-663,39","13,5","321,75","-2,4","0,90",retinoid receptor agonist,"RARA, RARB, RARG, RXRB",Launched,NHR,N
+SPE_K36381762,nor-Binaltorphimine-dihydrochloride,sensitiv,"93,17","60,39","33,24","-7,99","14,05","11,69","3,2","7,65",opioid receptor antagonist,"OPRD1, OPRK1, OPRM1",Preclinical,GPCR,N
+SPE_K20605374,NSC697923,sensitiv,"65,69","59,05","-40,51","5,82","14,6","11,05","-32,24","-0,42",ubiquitin-conjugating enzyme inhibitor,UBE2N,Preclinical,Enzyme,possibly
+SPE_K42205652,"MNS (3,4-Methylenedioxy-¦Â-nitrostyrene)",sensitiv,"98,75","97,40","88,84","6,55","14,92","14,83","-3,06","-5,41",,,,,Y
+SPE_K20338176,CEFACLOR,sensitiv,"75,98","74,44","23,21","-4,23","17,57","54,85","6,88","38,21",bacterial cell wall synthesis inhibitor,other,Launched,Antibacterial,Y
+SPE_K94485812,LDN-57444,LDN-57444,"35,37","66,59","-70,21","54,14","17,85","0,62","3,58","-1,21",ubiquitin C-terminal hydrolase inhibitor,other,Preclinical,Enzyme,Y
+SPE_A19661776,MIANSERIN HYDROCHLORIDE,sensitiv,"47,02","68,60","-40,18","-14,00","19,18","0,66","-2,44","-1,39",serotonin receptor antagonist,"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, DRD1, DRD2, DRD3, DRD5, HRH1, HRH2, HRH4, HTR1A, HTR1F, HTR2A, HTR2B, HTR2C, HTR6, HTR7, OPRK1, SLC6A2, SLC6A3, SLC6A4",Launched,GPCR,N
+SPE_K05445342,WP1066,sensitiv,"97,69","92,28","63,85","14,51","21,17","12,61","-24,41","8,19",STAT inhibitor,STAT3,Phase 1,Enzyme,Y
+SPE_K38287497,Narlaprevir,Narlaprevir,"76,12","55,34","-66,14","58,94","24,35","2,02","2,79","7,98",HCV inhibitor,other,Phase 2/Phase 3,Protease,N
+SPE_K58299615,Ro-90-7501,sensitiv,"-435,69","-372,81","-78,87","-453,25","25,55",0,"-5,05","2,32",,APP,Preclinical,Other,N
+SPE_A56241705,trimethoquinol,sensitiv,"73,89","55,42","24,02","-5,56","28,24","13,31","7,34","-3,22",adrenergic receptor antagonist,"ADRB2, ADRB3",Launched,GPCR,N
+SPE_A49035384,METHACYCLINE HYDROCHLORIDE,sensitiv,"95,23","91,04","72,42","10,26","31,01","42,59","-2,41","9,09",protein synthesis inhibitor,other,Launched,DNA-RNA-Viral,Y
+SPE_K89464729,GSK269962,sensitiv,"29,11","60,35","-11,15","-11,91","42,25","39,77","-13,92","-4,36",,,,,N
+SPE_K43644456,Degrasyn (WP1130),sensitiv,"55,56","59,37","-36,27","-6,59","46,02","105,3","-39,94","-11,53",deubiquitinase inhibitor,"JAK2, UCHL5, USP14, USP9X",Preclinical,Enzyme,Y
+SPE_K28354016,HOMIDIUM BROMIDE,sensitiv,"42,06","60,19","-46,71","30,02","54,5","34,61","12,44","0,42",,other,Preclinical,Other,Y
+SPE_K14821965,propidium-iodide,sensitiv,"82,9","90,94","79,71","55,99","56,93","21,11","3,63","69,67",,ACHE,Preclinical,Other,Y
+SPE_A92800748,Tie2 kinase inhibitor,Tie2 kinase inhibitor,"-572,83","-462,47","-201,98","-447,94",80,"14,97","-9,47","-4,11",TIE tyrosine kinase inhibitor,"KDR, MAPK14",Preclinical,Kinase,N
+SPE_K10226125,AC1NDSS5,AC1NDSS5,"96,76","74,61","10,52","89,90","154,31","0,96","-33,49","130,95",,other,Phase 1,Other,Y
+SPE_K21152241,enoximone,sensitiv,"84,35","68,44","-28,07","-0,53","158,45","57,42","5,84","6,41",phosphodiesterase inhibitor,PDE3A,Launched,,N
+SPE_K32456483,PRT4165,PRT4165,"81,04","75,65","11,06","60,38","208,06",0,"30,53","3,39",polycomb repressive complex inhibitor,PRC1,Preclinical,Enzyme,Y
+SPE_K94342292,NS-11021,sensitiv,"51,73","55,42","-9,91","-13,58","255,07",0,"25,42","19,33",,,,,N
+SPE_K86063171,EN460,sensitiv,"80,59","93,45","71,76","35,44","261,11","24,7","3,56","1,81",endoplasmic reticulum oxidation inhibitor,ERO1A,Preclinical,Enzyme,Y
+SPE_A22380646,Pantoprazole (sodium),sensitiv,"99,86","75,99","-3,44","-9,16","330,8",0,"9,29","2,84",,,,,N
+SPE_K69280563,Vinorelbine (ditartrate),sensitiv,"94,36","97,77","94,83","-17,58","346,31","23,91","-16,74","-6,60",,,,,N
+SPE_K79353516,CY208-243,sensitiv,"52,66","61,02","-23,89","-3,59","765,47",0,"8,25","-8,00",dopamine receptor agonist,CALY,Phase 2,GPCR,N
+SPE_K33623053,Rose Bengal Sodium Salt,Rose Bengal Sodium Salt,"99,6","74,85","-2,27","69,98","1176,55","26,97","22,43","15,27",immunostimulant,,Phase 2,,N
+SPE_A78111609,TNP-470,TNP-470,"65,34","58,16","-27,04","55,17","1242,46","0,01","-6,01","13,28",cell cycle inhibitor,METAP2,Phase 2,Enzyme,Y
+SPE_K61443506,NEXIUM (esomeprazole magnesium),sensitiv,"99,05","99,08","94,93","-9,00","1700,15","41,23","0,55","1,24",ATPase inhibitor,ATP4A,Launched,Enzyme,N
+SPE_K28861668,A 922500,A 922500,"-344,1","-224,51","-43,78","-194,63","1901,49","988,5","1,77","-2,30",diacylglycerol O acyltransferase inhibitor,DGAT1,Preclinical,Enzyme,N
+SPE_K21017401,CEFTIOFUR HYDROCHLORIDE,sensitiv,"83,77","73,14","-9,30","-4,24","2645,25","27,01","2,29","5,34",bacterial cell wall synthesis inhibitor,,,,Y
+SPE_K97534525,NITROXOLINE,sensitiv,"27,35","55,25","-61,53","-8,17","3726,71","0,67","6,25","3,81",cathepsin inhibitor,METAP2,Launched,Protease,N
+SPE_K18347943,ER-50891,sensitiv,"-198,67","-199,66","-305,75","-301,17","3821,48","14,12","23,4","42,24",,,,,N
+SPE_K80762071,Cardiogreen,Cardiogreen,"65,49","60,01","-13,20","33,98","4081,1","59,16","-14,34","2,36",contrast agent,,,,Y
+SPE_K34581968,BMS-536924,sensitiv,"-306,74","-351,00","-183,47","-381,53","4648,33","31573,36","-6,91","4,17",IGF-1 inhibitor,,,,N
+SPE_A64227845,SKF-77434,sensitiv,"80,98","59,09","27,85","3,95","5113,13","14,41","-1,85","-5,32",dopamine receptor agonist,DRD1,Preclinical,GPCR,N
+SPE_K70344361,NH125,sensitiv,"83,4","77,79","25,73","36,29","5142,25","0,85","-34,09","37,73",eukaryotic translation elongation factor 2 inhibitor,,Preclinical,,Y
+SPE_K17026858,Hoechst 33258,Hoechst 33258,"-506,92","-463,31","-157,50","-471,16","8117,11","40444,16","-9,91","1,10",DNA inhibitor,other,Phase 2,DNA-RNA-Viral,N
+SPE_K00152668,Adarotene,Adarotene,"-322,61","-387,09","-157,26","-348,55","8725,9","12,64","-14,34","13,87",retinoid receptor agonist,"RARB, RARG",Phase 1,NHR,N
+SPE_A09828896,SKF-81297,sensitiv,"94,45","64,62","67,01","-13,25","10559,28","6,28","1,02","-4,21",dopamine receptor agonist,"DRD1, DRD5",Preclinical,GPCR,N
+SPE_K10549975,Vinflunine Ditartrate,sensitiv,"91,96","97,15","82,41","-14,38","12170,07","37,39","0,59","-7,06",microtubule inhibitor,,Launched,,N
+SPE_K62949423,NSC-625987,sensitiv,"78,66","95,24","84,24","-11,42","22814,82","11,76","-2,58","-7,36",CDK inhibitor,"CDK2, CDK4",Preclinical,Kinase,Y
+SPE_K15426076,Iguratimod,Iguratimod,"-421,6","-348,85","-38,91","-326,98","30178,41","1,19","-0,93","34,21","cyclooxygenase inhibitor, NFkB pathway inhibitor",PTGS2,Launched,Enzyme,Y
+SPE_K12630395,harmane,harmane,"-228,31","-274,24","58,22","-250,92","32377,42","35,31","6,07","-0,85",monoamine oxidase inhibitor,"MAOA, MAOB",Preclinical,Enzyme,N
+SPE_K96354014,NIFEDIPINE,sensitiv,"89,46","75,51","26,53","-12,47","65539,5","0,08","-3,15","-1,74",calcium channel blocker,"CACNA1C, CACNA1D, CACNA1F, CACNA1H, CACNA1S, CACNA2D1, CACNB2, CALM1, GLRA1, GLRA3, GLRB, KCNA1, KCNA5, NR1I2, TRPM3",Launched,Channel,N
+SPE_K36163066,rose-bengal-lactone,rose-bengal-lactone,"101,19","86,37","55,48","92,10","70865,58","24,27","75,53","57,57",coloring agent,other,Launched,Other,N
+SPE_A55962179,OMEPRAZOLE,sensitiv,"97,49","98,48","97,96","-5,53","98199,07","21,78","1,34","6,84",ATPase inhibitor,"ATP4A, CLCN2",Launched,Enzyme,N
+SPE_K72922393,linsidomine,sensitiv,"73,86","60,42","-39,83","-14,90","98675,65",0,"0,84","-6,94",nitric oxide donor,,Launched,,Y
+SPE_K72226571,A77636,sensitiv,"97,28","96,15","84,68","-13,97","242733,04","12,14","0,39","-7,16",dopamine receptor agonist,CALY,Preclinical,GPCR,N
