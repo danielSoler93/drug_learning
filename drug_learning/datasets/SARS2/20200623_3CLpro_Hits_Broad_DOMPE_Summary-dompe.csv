@@ -1,0 +1,42 @@
+Compound Id,MotherPlate,Well Motherplate,Row Dest.Plate,Column Dest.Plate,Name,Group,"AV Inhibiton
+ Slope","AV Inhibiton
+ 15min","%Inhibition
+_slope PS","%Inhibition
+_15min PS","VeroE6% 
+Confluence_d03","VeroE6 % 
+Inhibition_d03","IC50 µM
+ 15 min
+ (red manually confirmed)","IC50 µM
+ slope
+ (red manually confirmed)",Chemically reactive?
+DOM_SIM_393,DOM_0000002_L01,C008,D,12,Bonaphthone,inhibitor,"104,24","101,38","104,26","101,99","0,43","-9,91","0,04","0,04",Y
+DOM_SIM_153,DOM_0000001_L01,O016,K,1,Tideglusib ,inhibitor,"102,33","99,48","101,64","100,84","-0,01","-6,70","0,08","0,08",Y
+DOM_SIM_505,DOM_0000002_L01,J019,K,12,Felbinac ethyl,inhibitor,"101,83","99,77","92,69","96,20","-0,19","-5,74","0,20","0,27",N
+DOM_SIM_077,DOM_0000001_L01,O017,F,1,Oltipraz ,inhibitor,"102,92","100,56","101,63","101,16","0,24","1,98","0,21","0,55",Y
+DOM_SIM_502,DOM_0000002_L01,J013,J,12,Proflavine,inhibitor,"105,74","19,55","97,06","40,01",,"-46,79","0,36","0,64",N
+DOM_SIM_049,DOM_0000001_L01,K001,B,1,Lansoprazole ,inhibitor,"101,45","22,63","103,13","45,60","0,30","2,41","0,39","1,15",N
+DOM_SIM_068,DOM_0000001_L01,M019,D,1,Amlexanox ,autofl_inhibitor,"112,90","-1115,38","96,10","-716,86","-0,05","-3,56","1,01","3,65",N
+DOM_SIM_242,DOM_0000001_L01,D004,M,1,(-)-Epigallocatechin gallate,inhibitor,"104,81","99,33","99,33","101,32","-0,15","5,07","1,58","2,96",N
+DOM_SIM_032,DOM_0000001_L01,G007,A,1,Levofloxacin ,autofl_inhibitor,"106,00","-1115,94","93,65","-710,24","0,12","-2,11","1,70","4,42",N
+DOM_SIM_379,DOM_0000002_L01,O015,C,12,KW 2449,autofl_inhibitor,"108,04","-1106,00","99,69","-757,40","0,25","-5,59","2,70","7,18",N
+DOM_SIM_488,DOM_0000002_L01,H005,I,12,Razoxane,inhibitor,"102,45","100,06","101,07","100,66","-0,21","0,06","3,19","5,21",Y
+DOM_SIM_528,DOM_0000002_L01,P005,L,12,6-aminochrysene,activator,"-65,23","-248,82","-117,61","-230,82","1,49","-2,04","3,39","10,28",N
+DOM_SIM_486,DOM_0000002_L01,H001,H,12,Dexrazoxane hydrochloride ,inhibitor,"100,57","98,63","30,80","88,99","0,12","9,53","6,24",10,Y
+DOM_SIM_440,DOM_0000002_L01,M006,G,12,Tasuldine ,inhibitor,"97,58","98,14","68,98","94,07","-0,15","-3,99","9,03","11,18",Y
+DOM_SIM_596,DOM_0000002_L01,D006,O,12,Daclatasvir dihydrochloride ,autofl_inhibitor,"3,60","-1033,87","100,40","-755,00","5,77","-8,81","9,25",10,N
+DOM_SIM_289,DOM_0000001_L01,L020,O,1,Rosmarinic acid ,inhibitor,"101,03","92,77","97,33","94,41","-0,12","-4,55","10,00","12,41",Y
+DOM_SIM_537,DOM_0000002_L01,B004,M,12,Parthenolide,inhibitor,"77,16","86,19","-12,23","56,54","-0,34","-43,19","10,04",20,Y
+DOM_SIM_299,DOM_0000001_L01,N020,P,1,(-)-Epicatechin,inhibitor,"101,03","99,75","83,11","86,90","-0,12","2,17","16,90","30,48",Y
+DOM_SIM_084,DOM_0000001_L01,A012,G,1,Linifanib ,activator,"-132,30","-666,12","-203,76","-455,46","4,22","-9,07",20,20,N
+DOM_SIM_055,DOM_0000001_L01,K013,C,1,Luminol sodium salt,autofl_inhibitor,"172,23","-481,89","156,93","-310,81","-0,06","0,70",20,20,Y
+DOM_SIM_070,DOM_0000001_L01,O003,E,1,Adrenaline,inhibitor,"66,61","73,95","-34,41","46,59","0,07","10,75",20,20,N
+DOM_SIM_124,DOM_0000001_L01,I016,H,1,Baricitinib ,autofl_inhibitor,"97,87","-1111,46","100,03","-707,34","-0,26","2,24",20,20,Y
+DOM_SIM_133,DOM_0000001_L01,K014,I,1,Tretinoin ,inhibitor,"47,27","71,73","-64,74","41,62","-0,05","1,01",20,20,Y
+DOM_SIM_151,DOM_0000001_L01,O012,J,1,Clevidipine ,autofl_inhibitor,"48,84","-209,30","64,15","-140,89","0,27","-0,29",20,20,N
+DOM_SIM_204,DOM_0000001_L01,L003,L,1,Metazosin,autofl_inhibitor,"1,64","-1013,17","91,75","-711,98","0,10","-0,46",20,20,N
+DOM_SIM_280,DOM_0000001_L01,L002,N,1,Noradrenaline,inhibitor,"65,75","75,16","-31,86","54,04","-0,04","-1,57",20,20,N
+DOM_SIM_345,DOM_0000002_L01,G019,A,12,Ruxolitinib phosphate ,autofl_inhibitor,"102,59","-1113,53","78,76","-748,53","0,10","-8,58",20,20,Y
+DOM_SIM_360,DOM_0000002_L01,K009,B,12,Tazarotene ,autofl_inhibitor,"-181,82","-803,46","89,45","-752,28","-0,20","-5,49",20,20,N
+DOM_SIM_432,DOM_0000002_L01,K008,E,12,Danofloxacin ,autofl_inhibitor,"70,31","-725,74","147,02","-588,05","0,02","1,21",20,"9,99",N
+DOM_SIM_434,DOM_0000002_L01,K014,F,12,Fenoldopam mesilate ,inhibitor,"101,90","99,05","89,28","85,76","-0,06","-7,64",20,20,N
+DOM_SIM_578,DOM_0000002_L01,M017,N,12,Grazoprevir hydrate ,activator,"-62,55","-231,59","-61,53","-178,08","-0,09","-8,21",20,"10,16",Y
