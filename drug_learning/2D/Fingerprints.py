@@ -32,7 +32,10 @@ class Saver():
 
     def to_pickle(self, output):
         self.df.to_pickle(output)
+        
+        
 class MorganFP(Saver):
+    
     def __init__(self):
         self.filename = None
         self.structures = None
