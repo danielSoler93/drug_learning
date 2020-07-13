@@ -128,7 +128,7 @@ class RDkitFP(Fingerprint):
 
 class MordredFP(Fingerprint):
 
-    self.fp_name = "_MordredFP"
+    fp_name = "_MordredFP"
 
     def transform(self):
         super().transform()
