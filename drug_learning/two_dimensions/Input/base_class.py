@@ -1,0 +1,42 @@
+import os
+import pandas as pd
+from rdkit import Chem
+from drug_learning.two_dimensions.Errors import errors as er
+from drug_learning.two_dimensions.Output import output as ot
+
+class Fingerprint(ot.Saver):
+    def __init__(self):
+        self.filename = None
+        self.structures = None
+        self.features = None
+        self.fitted = False
+        self.fp_name = None
+
+    def fit(self, input_sdf):
+        (self.filename, ext) = os.path.splitext(input_sdf)
+        self.structures = Chem.SDMolSupplier(input_sdf)
+        self.fitted = True
+        return self.structures
+
+    def transform(self):
+        if not self.fitted:
+            raise er.NotFittedException("Must fit the model before transform")
+
+    def save(self, to_csv=False, to_parquet=True, to_feather=False, to_hdf=False,
+            to_pickle=False):
+        if not self.mol_names:
+            raise er.NotTransformException("Must transform the input molecules before save")
+        column_names = [str(i) for i in list(range(self.features.shape[1]))]
+        df = pd.DataFrame(self.features, index=self.mol_names, columns=column_names)
+        ot.Saver.__init__(self, df)
+        if to_csv:
+            self.to_csv(self.filename + self.fp_name + ".csv")
+        if to_parquet:
+            self.to_parquet(self.filename + self.fp_name + ".gzip")
+        if to_feather:
+            self.to_feather(self.filename + self.fp_name + ".ftr")
+        if to_hdf:
+            self.to_hdf(self.filename + self.fp_name + ".hdf5")
+        if to_pickle:
+            self.to_pickle(self.filename + self.fp_name + ".pkl")
+        return self.features
