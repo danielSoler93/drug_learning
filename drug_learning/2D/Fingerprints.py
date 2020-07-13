@@ -10,6 +10,9 @@ from mordred import Calculator, descriptors
 class NotFittedException(Exception):
     pass
 
+class NotTransformException(Exception):
+    pass
+
 class Saver():
     def __init__(self, df):
         self.df = df
@@ -30,7 +33,7 @@ class Saver():
     def to_pickle(self, output):
         self.df.to_pickle(output)
 
-class Fingerprint():
+class Fingerprint(Saver):
     def __init__(self):
         self.filename = None
         self.structures = None
@@ -68,7 +71,7 @@ class Fingerprint():
         return self.features
 
 
-class MorganFP(Fingerprint, Saver):
+class MorganFP(Fingerprint):
     def __init__(self):
         super().__init__()
         self.fp_name = "_MorganFP"
@@ -87,7 +90,7 @@ class MorganFP(Fingerprint, Saver):
         return self.features
 
 
-class MACCS_FP(Fingerprint, Saver):
+class MACCS_FP(Fingerprint):
     def __init__(self):
         super().__init__()
         self.fp_name = "_MACCS_FP"
@@ -106,7 +109,7 @@ class MACCS_FP(Fingerprint, Saver):
         return self.features
 
 
-class RDkitFP(Fingerprint, Saver):
+class RDkitFP(Fingerprint):
     def __init__(self):
         super().__init__()
         self.fp_name = "_RDkitFP"
@@ -125,7 +128,7 @@ class RDkitFP(Fingerprint, Saver):
         return self.features
 
 
-class MordredFP(Fingerprint, Saver):
+class MordredFP(Fingerprint):
     def __init__(self):
         super().__init__()
         self.fp_name = "_MordredFP"
