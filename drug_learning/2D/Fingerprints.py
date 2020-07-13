@@ -10,7 +10,7 @@ from mordred import Calculator, descriptors
 class NotFittedException(Exception):
     pass
 
-class NotTransformException(Exception):
+class NotFittedException(Exception):
     pass
 
 class Saver():
@@ -34,12 +34,13 @@ class Saver():
         self.df.to_pickle(output)
 
 class Fingerprint(Saver):
+    fp_name = ""
+
     def __init__(self):
         self.filename = None
         self.structures = None
         self.features = None
         self.fitted = False
-        self.fp_name = None
 
     def fit(self, input_sdf):
         (self.filename, ext) = os.path.splitext(input_sdf)
@@ -72,9 +73,8 @@ class Fingerprint(Saver):
 
 
 class MorganFP(Fingerprint):
-    def __init__(self):
-        super().__init__()
-        self.fp_name = "_MorganFP"
+
+    fp_name = "_MorganFP"
 
     def transform(self):
         super().transform()
@@ -91,9 +91,8 @@ class MorganFP(Fingerprint):
 
 
 class MACCS_FP(Fingerprint):
-    def __init__(self):
-        super().__init__()
-        self.fp_name = "_MACCS_FP"
+
+    fp_name = "_MACCS_FP"
 
     def transform(self):
         super().transform()
@@ -110,9 +109,8 @@ class MACCS_FP(Fingerprint):
 
 
 class RDkitFP(Fingerprint):
-    def __init__(self):
-        super().__init__()
-        self.fp_name = "_RDkitFP"
+
+    fp_name = "_RDkitFP"
 
     def transform(self):
         super().transform()
@@ -129,9 +127,8 @@ class RDkitFP(Fingerprint):
 
 
 class MordredFP(Fingerprint):
-    def __init__(self):
-        super().__init__()
-        self.fp_name = "_MordredFP"
+
+    self.fp_name = "_MordredFP"
 
     def transform(self):
         super().transform()
