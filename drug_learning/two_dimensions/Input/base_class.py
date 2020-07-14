@@ -5,12 +5,14 @@ from drug_learning.two_dimensions.Errors import errors as er
 from drug_learning.two_dimensions.Output import output as ot
 
 class Fingerprint(ot.Saver):
+
+    fp_name = ""
+
     def __init__(self):
         self.filename = None
         self.structures = None
         self.features = None
         self.fitted = False
-        self.fp_name = None
 
     def fit(self, input_sdf):
         (self.filename, ext) = os.path.splitext(input_sdf)

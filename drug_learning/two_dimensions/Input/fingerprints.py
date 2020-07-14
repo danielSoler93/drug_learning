@@ -6,9 +6,8 @@ from mordred import Calculator, descriptors
 from drug_learning.two_dimensions.Input import base_class as bc
 
 class MorganFP(bc.Fingerprint):
-    def __init__(self):
-        super().__init__()
-        self.fp_name = "_MorganFP"
+
+    fp_name = "_MorganFP"
 
     def transform(self):
         super().transform()
@@ -25,9 +24,8 @@ class MorganFP(bc.Fingerprint):
 
 
 class MACCS_FP(bc.Fingerprint):
-    def __init__(self):
-        super().__init__()
-        self.fp_name = "_MACCS_FP"
+
+    fp_name = "_MACCS_FP"
 
     def transform(self):
         super().transform()
@@ -44,9 +42,8 @@ class MACCS_FP(bc.Fingerprint):
 
 
 class RDkitFP(bc.Fingerprint):
-    def __init__(self):
-        super().__init__()
-        self.fp_name = "_RDkitFP"
+
+    fp_name = "_RDkitFP"
 
     def transform(self):
         super().transform()
@@ -63,9 +60,8 @@ class RDkitFP(bc.Fingerprint):
 
 
 class MordredFP(bc.Fingerprint):
-    def __init__(self):
-        super().__init__()
-        self.fp_name = "_MordredFP"
+
+    fp_name = "_MordredFP"
 
     def transform(self):
         super().transform()
