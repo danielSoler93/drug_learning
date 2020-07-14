@@ -33,36 +33,66 @@ def parse_arguments():
                         default = False,
                         help = "Convert molecules to Mordred fingerprint")
 
+    parser.add_argument('-c', "--csv",
+                        dest = "to_csv",
+                        action = "store_true",
+                        default = False,
+                        help = "Save output to csv")
+
+    parser.add_argument('-pq', "--parquet",
+                        dest = "to_parquet",
+                        action = "store_true",
+                        default = True,
+                        help = "Save output to parquet")
+
+    parser.add_argument('-f', "--feather",
+                        dest = "to_feather",
+                        action ='store_true',
+                        default = False,
+                        help = "Save output to feather")
+
+    parser.add_argument('-hdf', "--hdf",
+                        dest = "to_hdf",
+                        action = "store_true",
+                        default = False,
+                        help = "Save output to hdf")
+
+    parser.add_argument('-pk', "--pickle",
+                        dest = "to_pickle",
+                        action ='store_true',
+                        default = False,
+                        help = "Save output to pickle")
+
     options = parser.parse_args()
 
     return options
 
 def main():
-    options = parse_arguments()
+    opt = parse_arguments()
 
-    if options.morgan:
+    if opt.morgan:
         morgan_fps = fp.MorganFP()
-        morgan_fps.fit(options.infile)
+        morgan_fps.fit(opt.infile)
         morgan_fps.transform()
-        morgan_fps.save(to_csv=False, to_parquet=False, to_feather=False, to_hdf=False, to_pickle=True)
+        morgan_fps.save(to_csv=opt.to_csv, to_parquet=opt.to_parquet, to_feather=opt.to_feather, to_hdf=opt.to_hdf, to_pickle=opt.to_pickle)
 
-    if options.maccs:
+    if opt.maccs:
         maccs_fps = fp.MACCS_FP()
-        maccs_fps.fit(options.infile)
+        maccs_fps.fit(opt.infile)
         maccs_fps.transform()
-        maccs_fps.save(to_csv=False, to_parquet=False, to_feather=False, to_hdf=False, to_pickle=True)
+        maccs_fps.save(to_csv=opt.to_csv, to_parquet=opt.to_parquet, to_feather=opt.to_feather, to_hdf=opt.to_hdf, to_pickle=opt.to_pickle)
 
-    if options.rdkit:
+    if opt.rdkit:
         rdkit_fps = fp.RDkitFP()
-        rdkit_fps.fit(options.infile)
+        rdkit_fps.fit(opt.infile)
         rdkit_fps.transform()
-        rdkit_fps.save(to_csv=False, to_parquet=False, to_feather=False, to_hdf=False, to_pickle=True)
+        rdkit_fps.save(to_csv=opt.to_csv, to_parquet=opt.to_parquet, to_feather=opt.to_feather, to_hdf=opt.to_hdf, to_pickle=opt.to_pickle)
 
-    if options.mordred:
+    if opt.mordred:
         mordred_fps = fp.MordredFP()
-        mordred_fps.fit(options.infile)
+        mordred_fps.fit(opt.infile)
         mordred_fps.transform()
-        mordred_fps.save(to_csv=False, to_parquet=False, to_feather=False, to_hdf=False, to_pickle=True)
+        mordred_fps.save(to_csv=opt.to_csv, to_parquet=opt.to_parquet, to_feather=opt.to_feather, to_hdf=opt.to_hdf, to_pickle=opt.to_pickle)
 
 if __name__ == "__main__":
     main()
