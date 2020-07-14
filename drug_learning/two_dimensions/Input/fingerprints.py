@@ -1,4 +1,5 @@
 import numpy as np
+from rdkit.Chem import RDKFingerprint
 from rdkit.Chem import AllChem
 from rdkit.Chem import MACCSkeys
 from rdkit.Chem import DataStructs
@@ -50,7 +51,7 @@ class RDkitFP(bc.Fingerprint):
         fts = []
         self.mol_names = []
         for mol in self.structures:
-            fp = Chem.RDKFingerprint(mol)
+            fp = RDKFingerprint(mol)
             arr = np.zeros((0,), dtype=np.int8)
             DataStructs.ConvertToNumpyArray(fp,arr)
             fts.append(arr)

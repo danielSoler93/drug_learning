@@ -7,32 +7,31 @@ def parse_arguments():
     parser.add_argument('-i', '--input',
                         dest="infile",
                         action="store",
-                        default = ".",
                         help="Input sdf file")
 
     parser.add_argument('-mo', '--morgan',
                         dest ="morgan",
+                        action = "store_true",
                         default = False,
-                        help = "Convert molecules to Morgan fingerprint",
-                        action = "store_true")
+                        help = "Convert molecules to Morgan fingerprint")
 
     parser.add_argument('-ma', "--maccs",
                         dest = "maccs",
+                        action = "store_true",
                         default = False,
-                        help = "Convert molecules to MACCS fingerprint",
-                        action = "store_true")
+                        help = "Convert molecules to MACCS fingerprint")
 
     parser.add_argument('-rd', "--rdkit",
                         dest = "rdkit",
-                        help = "Convert molecules to RDkit fingerprint",
+                        action = "store_true",
                         default = False,
-                        action = "store_true")
+                        help = "Convert molecules to RDkit fingerprint")
 
     parser.add_argument('-md', "--mordred",
                         dest = "mordred",
-                        help = "Convert molecules to Mordred fingerprint",
+                        action ='store_true',
                         default = False,
-                        action ='store_true')
+                        help = "Convert molecules to Mordred fingerprint")
 
     options = parser.parse_args()
 
@@ -54,7 +53,7 @@ def main():
         maccs_fps.save(to_csv=False, to_parquet=False, to_feather=False, to_hdf=False, to_pickle=True)
 
     if options.rdkit:
-        rdkit_fps = fp.RDkit_FP()
+        rdkit_fps = fp.RDkitFP()
         rdkit_fps.fit(options.infile)
         rdkit_fps.transform()
         rdkit_fps.save(to_csv=False, to_parquet=False, to_feather=False, to_hdf=False, to_pickle=True)
