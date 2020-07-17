@@ -1,0 +1,938 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdkit="http://www.rdkit.org/xml" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" xml:space="preserve" width="300px" height="4350px" viewBox="0 0 300 4350">
+<!-- END OF HEADER -->
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<rect style="opacity:1.0;fill:#FFFFFF;stroke:none" width="300" height="4350" x="0" y="0"> </rect>
+<ellipse cx="71.3167" cy="88.1001" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="81.0637" cy="82.4727" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="90.8108" cy="88.1001" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="81.0637" cy="71.2177" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="100.558" cy="71.2177" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="90.8108" cy="65.5902" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="71.3167" cy="65.5902" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="61.5696" cy="71.2177" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 71.3167,97.4792 L 71.3167,89.9759" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 72.9425,87.1614 L 77.0031,84.817" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 77.0031,84.817 L 81.0637,82.4727" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 69.6908,87.1614 L 62.4456,82.9784" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 81.0637,82.4727 L 90.8108,88.1001" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 81.4003,85.2662 L 88.2233,89.2054" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 81.0637,82.4727 L 81.0637,71.2177" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-12" d="M 61.5696,80.5968 L 61.5696,71.2177" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-12" d="M 63.8206,79.19 L 63.8206,72.6246" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 90.8108,88.1001 L 99.6819,82.9784" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 81.0637,71.2177 L 90.8108,65.5902" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 81.0637,71.2177 L 71.3167,65.5902" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 80.7272,68.4242 L 73.9042,64.4849" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-6" d="M 100.558,80.5968 L 100.558,71.2177" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-7" d="M 100.558,71.2177 L 90.8108,65.5902" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-7" d="M 97.9703,72.323 L 91.1474,68.3838" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-10" d="M 71.3167,65.5902 L 61.5696,71.2177" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-11" d="M 61.5696,71.2177 L 52.6985,66.096" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="70.8159" y="99.9178" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="71.3167" y="88.6629" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="62.0704" y="83.0354" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="100.057" y="83.0354" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="52.3234" y="66.153" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="142.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>6864-SARS2</tspan></text>
+<ellipse cx="187.091" cy="94.4978" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="177.71" cy="100.716" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="168.897" cy="93.7161" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 184.597,85.5301 L 187.091,94.4978" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 187.091,94.4978 L 177.71,100.716" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 177.71,100.716 L 174.116,97.8619" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 174.116,97.8619 L 170.523,95.0075" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 169.597,91.8403 L 172.131,85.047" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="183.575" y="84.2171" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="170.147" y="94.2788" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="172.33" y="83.7339" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="142.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13706-SARS1</tspan></text>
+<ellipse cx="108.768" cy="205.143" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="113.808" cy="195.079" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="124.937" cy="196.764" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 115.905,212.182 L 108.768,205.143" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 108.768,205.143 L 113.808,195.079" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 113.808,195.079 L 118.56,195.799" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 118.56,195.799 L 123.311,196.518" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 125.247,198.639 L 126.463,205.992" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="116.28" y="213.609" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="123.686" y="197.326" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="126.273" y="208.43" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="292.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>1671-SARS1</tspan></text>
+<ellipse cx="289.684" cy="221.139" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="296.715" cy="229.928" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="290.528" cy="239.331" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 280.029,224.78 L 289.684,221.139" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 289.684,221.139 L 296.715,229.928" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 296.715,229.928 L 294.239,233.692" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 294.239,233.692 L 291.763,237.455" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 288.903,238.885 L 280.551,236.593" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="279.654" y="225.673" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="289.278" y="239.893" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="280.175" y="236.916" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="292.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>1672-SARS1</tspan></text>
+<ellipse cx="42.6847" cy="340.306" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="32.3217" cy="344.697" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="24.0856" cy="352.368" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 53.0486,339.77 L 42.6847,340.306" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 42.6847,340.306 L 32.3217,344.697" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 32.3217,344.697 L 29.0166,347.776" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 29.0166,347.776 L 25.7115,350.854" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 23.1283,354.244 L 19.8457,360.677" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="53.4238" y="340.287" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="25.3363" y="352.931" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="19.4705" y="362.956" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="442.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>1685-SARS1</tspan></text>
+<ellipse cx="260.984" cy="360.149" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="270.756" cy="354.565" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="279.087" cy="362.132" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 262.886,369.293 L 260.984,360.149" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 260.984,360.149 L 270.756,354.565" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 270.756,354.565 L 274.108,357.61" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 274.108,357.61 L 277.461,360.655" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 278.242,364.008 L 275.309,370.518" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="262.775" y="371.731" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="277.836" y="362.695" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="274.965" y="372.957" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="442.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>1728-SARS1</tspan></text>
+<ellipse cx="114.164" cy="514.357" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="124.241" cy="509.344" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="132.123" cy="517.378" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 115.54,523.614 L 114.164,514.357" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 114.164,514.357 L 124.241,509.344" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 124.241,509.344 L 127.369,512.532" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 127.369,512.532 L 130.497,515.72" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 131.145,519.253 L 127.794,525.677" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="115.318" y="526.053" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="130.872" y="517.94" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="127.419" y="527.919" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="592.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>1730-SARS1</tspan></text>
+<ellipse cx="263.873" cy="512.48" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="273.864" cy="507.298" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="281.88" cy="515.198" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 265.404,521.707 L 263.873,512.48" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 263.873,512.48 L 273.864,507.298" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 273.864,507.298 L 277.059,510.447" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 277.059,510.447 L 280.254,513.596" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 280.941,517.074 L 277.719,523.513" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="265.214" y="524.146" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="280.629" y="515.761" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="277.344" y="525.826" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="592.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>1731-SARS1</tspan></text>
+<ellipse cx="31.1655" cy="694.051" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="21.6345" cy="700.037" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="12.9961" cy="692.822" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 28.8898,685.012 L 31.1655,694.051" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 31.1655,694.051 L 21.6345,700.037" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 21.6345,700.037 L 18.1282,697.109" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 18.1282,697.109 L 14.6219,694.18" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 13.7489,690.947 L 16.4353,684.253" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="27.9167" y="683.699" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="14.2468" y="693.385" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="16.6873" y="682.94" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="742.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>1732-SARS1</tspan></text>
+<ellipse cx="257.059" cy="688.063" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="268.203" cy="686.493" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="273.141" cy="696.607" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 255.438,697.272 L 257.059,688.063" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 257.059,688.063 L 268.203,686.493" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 268.203,686.493 L 270.214,690.612" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 270.214,690.612 L 272.225,694.731" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 271.515,698.178 L 265.924,703.582" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="254.607" y="699.711" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="271.89" y="697.17" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="265.548" y="704.991" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="742.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>1733-SARS1</tspan></text>
+<ellipse cx="114.644" cy="815.521" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="124.761" cy="810.59" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="132.577" cy="818.688" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 115.944,824.791 L 114.644,815.521" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 114.644,815.521 L 124.761,810.59" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 124.761,810.59 L 127.856,813.797" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 127.856,813.797 L 130.951,817.004" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 131.579,820.564 L 128.167,826.978" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="115.706" y="827.23" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="131.327" y="819.251" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="127.792" y="829.187" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="892.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>1734-SARS1</tspan></text>
+<ellipse cx="253.403" cy="795.077" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="261.373" cy="787.13" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="256.279" cy="777.094" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 244.258,790.4 L 253.403,795.077" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 253.403,795.077 L 261.373,787.13" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 261.373,787.13 L 259.302,783.05" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 259.302,783.05 L 257.231,778.97" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 254.653,777.349 L 246.036,778.701" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="243.883" y="790.515" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="255.028" y="777.657" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="245.66" y="779.401" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="892.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>1740-SARS1</tspan></text>
+<ellipse cx="33.0718" cy="995.795" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="23.2574" cy="1001.3" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="14.9851" cy="993.673" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 31.2403,986.635 L 33.0718,995.795" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 33.0718,995.795 L 23.2574,1001.3" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 23.2574,1001.3 L 19.9342,998.238" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 19.9342,998.238 L 16.6109,995.173" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 15.8476,991.797 L 18.8244,985.323" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="30.3644" y="985.321" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="16.2358" y="994.235" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="19.1861" y="984.01" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="1042.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13625-SARS1</tspan></text>
+<ellipse cx="181.344" cy="997.753" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="172.128" cy="1004.21" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="163.136" cy="997.444" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 178.623,988.868 L 181.344,997.753" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 181.344,997.753 L 172.128,1004.21" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 172.128,1004.21 L 168.445,1001.44" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 168.445,1001.44 L 164.762,998.668" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 163.781,995.568 L 166.151,988.676" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="177.548" y="987.554" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="164.387" y="998.007" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="166.295" y="987.363" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="1042.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13626-SARS1</tspan></text>
+<ellipse cx="109.036" cy="1134.86" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="120.138" cy="1133.01" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="125.326" cy="1143" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 107.644,1144.11 L 109.036,1134.86" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 109.036,1134.86 L 120.138,1133.01" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 120.138,1133.01 L 122.245,1137.06" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 122.245,1137.06 L 124.351,1141.12" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 123.7,1144.65 L 118.305,1150.13" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="106.861" y="1146.55" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="124.075" y="1143.56" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="117.93" y="1151.58" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="1192.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13634-SARS1</tspan></text>
+<ellipse cx="182.302" cy="1147.45" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="172.994" cy="1153.78" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="164.1" cy="1146.88" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 179.706,1138.52 L 182.302,1147.45" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 182.302,1147.45 L 172.994,1153.78" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 172.994,1153.78 L 169.36,1150.96" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 169.36,1150.96 L 165.726,1148.14" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 164.775,1145.01 L 167.236,1138.17" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="178.66" y="1137.21" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="165.351" y="1147.44" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="167.411" y="1136.86" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="1192.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13635-SARS1</tspan></text>
+<ellipse cx="32.6368" cy="1294.61" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="22.7776" cy="1300.04" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="14.568" cy="1292.34" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 30.8796,1285.43 L 32.6368,1294.61" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 32.6368,1294.61 L 22.7776,1300.04" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 22.7776,1300.04 L 19.4857,1296.95" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 19.4857,1296.95 L 16.1938,1293.86" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 15.4492,1290.46 L 18.4774,1284.02" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="30.0197" y="1284.12" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="15.8187" y="1292.9" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="18.8525" y="1282.72" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="1342.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13636-SARS1</tspan></text>
+<ellipse cx="254.228" cy="1294.18" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="265.482" cy="1294.03" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="269.101" cy="1304.69" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 251.474,1303.05 L 254.228,1294.18" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 254.228,1294.18 L 265.482,1294.03" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 265.482,1294.03 L 266.973,1298.42" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 266.973,1298.42 L 268.464,1302.81" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 267.475,1305.9 L 260.96,1310.77" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="250.391" y="1305.49" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="267.85" y="1305.25" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="260.584" y="1311.99" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="1342.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13637-SARS1</tspan></text>
+<ellipse cx="31.7291" cy="1445.35" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="22.2652" cy="1451.44" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="13.5472" cy="1444.32" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 29.3546,1436.34 L 31.7291,1445.35" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 31.7291,1445.35 L 22.2652,1451.44" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 22.2652,1451.44 L 18.7191,1448.55" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 18.7191,1448.55 L 15.173,1445.65" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 14.2759,1442.45 L 16.8943,1435.71" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="28.3593" y="1435.03" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="14.7979" y="1444.89" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="17.1222" y="1434.4" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="1492.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13641-SARS1</tspan></text>
+<ellipse cx="263.11" cy="1420.66" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="273.552" cy="1416.46" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="280.774" cy="1425.09" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 263.751,1430.01 L 263.11,1420.66" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 263.11,1420.66 L 273.552,1416.46" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 273.552,1416.46 L 276.378,1419.83" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 276.378,1419.83 L 279.205,1423.21" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 279.598,1426.96 L 275.672,1433.23" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="263.378" y="1432.45" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="279.523" y="1425.65" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="275.297" y="1435.19" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="1492.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13642-SARS1</tspan></text>
+<ellipse cx="38.557" cy="1566.67" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="27.3834" cy="1568.03" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="22.6455" cy="1557.82" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 40.3565,1557.51 L 38.557,1566.67" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 38.557,1566.67 L 27.3834,1568.03" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 27.3834,1568.03 L 25.4497,1563.86" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 25.4497,1563.86 L 23.516,1559.69" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 24.2713,1556.31 L 30.0148,1550.97" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="40.2238" y="1556.19" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="23.8962" y="1558.38" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="30.39" y="1550.72" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="1642.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13644-SARS1</tspan></text>
+<ellipse cx="256.288" cy="1589.9" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="267.493" cy="1588.84" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="271.968" cy="1599.16" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 254.257,1599.01 L 256.288,1589.9" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 256.288,1589.9 L 267.493,1588.84" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 267.493,1588.84 L 269.324,1593.06" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 269.324,1593.06 L 271.155,1597.29" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 270.342,1600.6 L 264.405,1605.84" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="253.338" y="1601.45" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="270.717" y="1599.73" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="264.03" y="1607.17" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="1642.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13645-SARS1</tspan></text>
+<ellipse cx="107.768" cy="1736.31" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="118.885" cy="1734.55" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="123.991" cy="1744.58" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 106.301,1745.55 L 107.768,1736.31" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 107.768,1736.31 L 118.885,1734.55" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 118.885,1734.55 L 120.961,1738.63" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 120.961,1738.63 L 123.036,1742.71" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 122.365,1746.21 L 116.905,1751.66" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="105.502" y="1747.99" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="122.74" y="1745.15" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="116.53" y="1753.1" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="1792.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13646-SARS1</tspan></text>
+<ellipse cx="258.242" cy="1730.5" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="269.23" cy="1728.06" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="274.945" cy="1737.75" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 257.347,1739.83 L 258.242,1730.5" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 258.242,1730.5 L 269.23,1728.06" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 269.23,1728.06 L 271.534,1731.97" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 271.534,1731.97 L 273.839,1735.88" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 273.319,1739.59 L 268.365,1745.2" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="256.666" y="1742.26" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="273.694" y="1738.32" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="267.99" y="1746.75" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="1792.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13647-SARS1</tspan></text>
+<ellipse cx="103.054" cy="1865.81" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="113.464" cy="1861.53" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="120.751" cy="1870.11" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 103.766,1875.16 L 103.054,1865.81" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 103.054,1865.81 L 113.464,1861.53" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 113.464,1861.53 L 116.311,1864.88" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 116.311,1864.88 L 119.157,1868.23" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 119.595,1871.99 L 115.722,1878.27" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="103.408" y="1877.6" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="119.501" y="1870.67" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="115.347" y="1880.25" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="1942.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13648-SARS1</tspan></text>
+<ellipse cx="175.408" cy="1880.53" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="164.845" cy="1884.42" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="165.277" cy="1895.66" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 181.492,1888.26 L 175.408,1880.53" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 175.408,1880.53 L 164.845,1884.42" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 164.845,1884.42 L 165.025,1889.1" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 165.025,1889.1 L 165.205,1893.79" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 166.903,1896.12 L 175.231,1898.48" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="181.867" y="1889.94" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="166.528" y="1896.23" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="175.606" y="1899.29" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="1942.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13655-SARS1</tspan></text>
+<ellipse cx="106.288" cy="2039.9" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="117.493" cy="2038.84" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="121.968" cy="2049.16" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 104.257,2049.01 L 106.288,2039.9" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 106.288,2039.9 L 117.493,2038.84" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 117.493,2038.84 L 119.324,2043.06" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 119.324,2043.06 L 121.155,2047.29" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 120.342,2050.6 L 114.405,2055.84" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="103.338" y="2051.45" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="120.717" y="2049.73" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="114.03" y="2057.17" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="2092.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13656-SARS1</tspan></text>
+<ellipse cx="261.464" cy="2024.11" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="272.087" cy="2020.39" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="278.907" cy="2029.35" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 261.677,2033.49 L 261.464,2024.11" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 261.464,2024.11 L 272.087,2020.39" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 272.087,2020.39 L 274.782,2023.93" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 274.782,2023.93 L 277.478,2027.47" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 277.608,2031.22 L 273.375,2037.33" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="261.218" y="2035.93" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="277.656" y="2029.91" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="273" y="2039.16" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="2092.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13657-SARS1</tspan></text>
+<ellipse cx="33.4873" cy="2193.46" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="23.4973" cy="2198.64" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="15.48" cy="2190.74" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 31.9556,2184.23 L 33.4873,2193.46" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 33.4873,2193.46 L 23.4973,2198.64" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 23.4973,2198.64 L 20.3016,2195.49" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 20.3016,2195.49 L 17.1058,2192.34" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 16.4183,2188.87 L 19.6391,2182.43" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="31.1434" y="2182.92" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="16.7307" y="2191.31" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="20.0142" y="2181.24" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="2242.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13658-SARS1</tspan></text>
+<ellipse cx="183.821" cy="2190.71" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="173.64" cy="2195.5" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="165.931" cy="2187.3" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 182.643,2181.42 L 183.821,2190.71" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 183.821,2190.71 L 173.64,2195.5" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 173.64,2195.5 L 170.598,2192.27" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 170.598,2192.27 L 167.557,2189.03" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 166.961,2185.43 L 170.473,2179.03" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="181.904" y="2180.1" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="167.182" y="2187.87" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="170.848" y="2178" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="2242.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13659-SARS1</tspan></text>
+<ellipse cx="110.984" cy="2310.15" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="120.756" cy="2304.56" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="129.087" cy="2312.13" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 112.886,2319.29 L 110.984,2310.15" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 110.984,2310.15 L 120.756,2304.56" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 120.756,2304.56 L 124.108,2307.61" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 124.108,2307.61 L 127.461,2310.66" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 128.242,2314.01 L 125.309,2320.52" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="112.775" y="2321.73" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="127.836" y="2312.7" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="124.965" y="2322.96" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="2392.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13661-SARS1</tspan></text>
+<ellipse cx="183.152" cy="2342.3" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="173.125" cy="2347.42" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="165.164" cy="2339.46" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 181.684,2333.06 L 183.152,2342.3" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 183.152,2342.3 L 173.125,2347.42" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 173.125,2347.42 L 169.957,2344.25" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 169.957,2344.25 L 166.79,2341.09" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 166.119,2337.59 L 169.394,2331.15" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="180.886" y="2331.75" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="166.414" y="2340.03" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="169.769" y="2330" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="2392.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13662-SARS1</tspan></text>
+<ellipse cx="115.893" cy="2479.12" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="126.648" cy="2475.81" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="126.819" cy="2464.56" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 110.292,2471.17 L 115.893,2479.12" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 115.893,2479.12 L 126.648,2475.81" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 126.648,2475.81 L 126.719,2471.12" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 126.719,2471.12 L 126.79,2466.43" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 125.193,2464 L 117.045,2461.22" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="109.917" y="2470.48" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="125.568" y="2465.12" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="116.67" y="2461.48" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="2542.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13663-SARS1</tspan></text>
+<ellipse cx="260.81" cy="2477.97" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="271.614" cy="2474.81" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="277.953" cy="2484.11" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 260.528,2487.34 L 260.81,2477.97" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 260.81,2477.97 L 271.614,2474.81" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 271.614,2474.81 L 274.144,2478.53" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 274.144,2478.53 L 276.674,2482.24" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 276.502,2485.99 L 271.942,2491.88" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="259.971" y="2489.78" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="276.702" y="2484.68" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="271.567" y="2493.58" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="2542.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13664-SARS1</tspan></text>
+<ellipse cx="75.0103" cy="2595.18" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="77.4318" cy="2584.19" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="67.7267" cy="2578.49" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 64.6846,2596.19 L 75.0103,2595.18" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 75.0103,2595.18 L 77.4318,2584.19" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 77.4318,2584.19 L 73.3922,2581.81" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 73.3922,2581.81 L 69.3526,2579.44" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 66.1009,2579.93 L 60.1831,2585.18" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="64.3095" y="2596.83" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="67.7267" y="2579.05" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="66.476" y="2575.3" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>H</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="59.8079" y="2586.52" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="2692.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13665-SARS1</tspan></text>
+<ellipse cx="255.683" cy="2639.1" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="266.869" cy="2637.85" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="271.514" cy="2648.11" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 253.801,2648.25 L 255.683,2639.1" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 255.683,2639.1 L 266.869,2637.85" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 266.869,2637.85 L 268.766,2642.04" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 268.766,2642.04 L 270.664,2646.23" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 269.888,2649.59 L 264.075,2654.89" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="252.915" y="2650.69" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="270.263" y="2648.67" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="263.7" y="2656.25" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="2692.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13666-SARS1</tspan></text>
+<ellipse cx="112.286" cy="2772.41" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="122.819" cy="2768.44" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="129.846" cy="2777.23" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 112.717,2781.77 L 112.286,2772.41" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 112.286,2772.41 L 122.819,2768.44" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 122.819,2768.44 L 125.582,2771.9" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 125.582,2771.9 L 128.346,2775.35" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 128.611,2779.11 L 124.532,2785.3" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="112.303" y="2784.21" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="128.595" y="2777.79" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="124.157" y="2787.19" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="2842.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13667-SARS1</tspan></text>
+<ellipse cx="189.119" cy="2768.77" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="178.033" cy="2770.71" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="172.762" cy="2760.76" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 190.435,2759.5 L 189.119,2768.77" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 189.119,2768.77 L 178.033,2770.71" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 178.033,2770.71 L 175.895,2766.67" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 175.895,2766.67 L 173.757,2762.64" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 174.388,2759.08 L 179.716,2753.58" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="190.2" y="2758.19" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="174.013" y="2761.33" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="180.091" y="2753.24" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="2842.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13669-SARS1</tspan></text>
+<ellipse cx="109.909" cy="2929.53" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="120.783" cy="2926.62" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="126.906" cy="2936.07" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 109.412,2938.89 L 109.909,2929.53" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 109.909,2929.53 L 120.783,2926.62" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 120.783,2926.62 L 123.236,2930.41" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 123.236,2930.41 L 125.69,2934.19" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 125.385,2937.94 L 120.693,2943.73" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="108.812" y="2941.33" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="125.655" y="2936.63" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="120.318" y="2945.37" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="2992.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13672-SARS1</tspan></text>
+<ellipse cx="262.286" cy="2922.41" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="272.819" cy="2918.44" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="279.846" cy="2927.23" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 262.717,2931.77 L 262.286,2922.41" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 262.286,2922.41 L 272.819,2918.44" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 272.819,2918.44 L 275.582,2921.9" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 275.582,2921.9 L 278.346,2925.35" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 278.611,2929.11 L 274.532,2935.3" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="262.303" y="2934.21" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="278.595" y="2927.79" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="274.157" y="2937.19" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="2992.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13688-SARS1</tspan></text>
+<ellipse cx="41.2191" cy="3108.08" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="33.8811" cy="3116.62" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="39.7299" cy="3126.23" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 50.7269,3112.06 L 41.2191,3108.08" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 41.2191,3108.08 L 33.8811,3116.62" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 33.8811,3116.62 L 36.235,3120.49" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 36.235,3120.49 L 38.5889,3124.36" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 41.3557,3125.85 L 49.8065,3123.85" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="51.1021" y="3112.99" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="40.9806" y="3126.79" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="50.1817" y="3124.2" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="3142.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13707-SARS1</tspan></text>
+<ellipse cx="202.765" cy="3076.78" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="192.55" cy="3081.5" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="184.9" cy="3073.25" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 201.653,3067.48 L 202.765,3076.78" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 202.765,3076.78 L 192.55,3081.5" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 192.55,3081.5 L 189.538,3078.25" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 189.538,3078.25 L 186.526,3075" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 185.947,3071.37 L 189.511,3064.99" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="200.928" y="3066.16" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="186.151" y="3073.81" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="189.886" y="3063.98" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="3142.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13713-SARS1</tspan></text>
+<ellipse cx="71.0394" cy="3199.75" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="72.5885" cy="3188.6" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="62.4649" cy="3183.68" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 60.8345,3201.57 L 71.0394,3199.75" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 71.0394,3199.75 L 72.5885,3188.6" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 72.5885,3188.6 L 68.3396,3186.54" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 68.3396,3186.54 L 64.0908,3184.47" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 60.839,3185.37 L 55.5352,3190.88" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="60.4594" y="3202.28" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="62.4649" y="3184.25" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="61.2142" y="3180.5" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>H</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="55.16" y="3192.36" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="3292.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13721-SARS1</tspan></text>
+<ellipse cx="193.153" cy="3225.05" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="188.414" cy="3214.84" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="184.909" cy="3232.71" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="177.24" cy="3216.2" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="168.759" cy="3208.8" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="175.074" cy="3227.24" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 208.266,3235.63 L 205.262,3226.85" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 206.137,3236.36 L 203.133,3227.58" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 204.197,3227.22 L 193.153,3225.05" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 193.153,3225.05 L 191.262,3220.98" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 191.262,3220.98 L 189.372,3216.91" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 190.544,3224.78 L 189.221,3221.93" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 189.221,3221.93 L 187.897,3219.08" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 193.153,3225.05 L 189.782,3228.19" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 189.782,3228.19 L 186.411,3231.32" style="fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 189.562,3212.78 L 191.724,3208.9" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 191.724,3208.9 L 193.887,3205.01" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 186.13,3215.12 L 181.685,3215.66" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 181.685,3215.66 L 177.24,3216.2" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-11" d="M 183.407,3231.88 L 175.074,3227.24" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-6" d="M 193.887,3205.01 L 205.14,3204.83" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-7" d="M 177.24,3216.2 L 168.759,3208.8" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 177.24,3216.2 L 175.074,3227.24" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 179.124,3218.29 L 177.608,3226.02" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 168.394,3207.73 L 158.622,3211.08" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 169.123,3209.86 L 159.351,3213.21" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-10" d="M 175.074,3227.24 L 165.302,3230.59" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="207.343" y="3238.43" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="186.543" y="3215.46" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan><tspan style="baseline-shift:super;font-size:2.25px;">+</tspan><tspan/></text>
+<text dominant-baseline="central" text-anchor="middle" x="184.909" y="3233.28" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#CCCC00"><tspan>S</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="158.611" y="3213.01" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="164.927" y="3231.45" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="3292.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13731-SARS1</tspan></text>
+<ellipse cx="43.153" cy="3375.05" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="38.4136" cy="3364.84" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="34.9087" cy="3382.71" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="27.2403" cy="3366.2" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="18.7585" cy="3358.8" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="25.0741" cy="3377.24" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 58.2662,3385.63 L 55.2623,3376.85" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 56.1366,3386.36 L 53.1327,3377.58" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 54.1975,3377.22 L 43.153,3375.05" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 43.153,3375.05 L 41.2623,3370.98" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 41.2623,3370.98 L 39.3716,3366.91" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 40.5441,3374.78 L 39.2206,3371.93" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 39.2206,3371.93 L 37.8971,3369.08" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 43.153,3375.05 L 39.7818,3378.19" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 39.7818,3378.19 L 36.4107,3381.32" style="fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 39.5619,3362.78 L 41.7243,3358.9" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 41.7243,3358.9 L 43.8867,3355.01" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 36.1302,3365.12 L 31.6852,3365.66" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 31.6852,3365.66 L 27.2403,3366.2" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-11" d="M 33.4067,3381.88 L 25.0741,3377.24" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-6" d="M 43.8867,3355.01 L 55.1403,3354.83" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-7" d="M 27.2403,3366.2 L 18.7585,3358.8" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 27.2403,3366.2 L 25.0741,3377.24" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 29.1243,3368.29 L 27.6079,3376.02" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 18.3939,3357.73 L 8.62196,3361.08" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 19.1232,3359.86 L 9.35122,3363.21" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-10" d="M 25.0741,3377.24 L 15.3022,3380.59" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="57.343" y="3388.43" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="36.5429" y="3365.46" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan><tspan style="baseline-shift:super;font-size:2.25px;">+</tspan><tspan/></text>
+<text dominant-baseline="central" text-anchor="middle" x="34.9087" y="3383.28" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#CCCC00"><tspan>S</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="8.61142" y="3363.01" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="14.927" y="3381.45" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="3442.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13740-SARS1</tspan></text>
+<ellipse cx="201.823" cy="3406.47" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="200.646" cy="3395.28" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="191.541" cy="3411.05" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="189.637" cy="3392.94" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="184.01" cy="3383.19" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="184.01" cy="3402.68" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 219.878,3406 L 211.007,3411.12" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 221.003,3407.95 L 212.132,3413.07" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 211.57,3412.1 L 201.823,3406.47" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 201.823,3406.47 L 201.343,3401.9" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 201.343,3401.9 L 200.863,3397.34" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 199.44,3405.34 L 199.104,3402.14" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 199.104,3402.14 L 198.768,3398.94" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 201.823,3406.47 L 197.433,3408.42" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 197.433,3408.42 L 193.043,3410.38" style="fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 202.929,3393.22 L 205.97,3390.48" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 205.97,3390.48 L 209.01,3387.75" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 198.363,3394.79 L 194,3393.86" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 194,3393.86 L 189.637,3392.94" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-11" d="M 190.039,3409.38 L 184.01,3402.68" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-6" d="M 209.01,3387.75 L 206.67,3376.74" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-7" d="M 189.637,3392.94 L 184.01,3383.19" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 189.637,3392.94 L 184.01,3402.68" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 190.742,3395.52 L 186.803,3402.35" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 184.01,3382.06 L 173.631,3382.06" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 184.01,3384.31 L 173.631,3384.31" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-10" d="M 184.01,3402.68 L 173.631,3402.68" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="220.816" y="3407.03" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="198.775" y="3395.9" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan><tspan style="baseline-shift:super;font-size:2.25px;">+</tspan><tspan/></text>
+<text dominant-baseline="central" text-anchor="middle" x="191.541" y="3411.61" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#CCCC00"><tspan>S</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="173.255" y="3383.75" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="173.255" y="3403.25" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="3442.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13752-SARS1</tspan></text>
+<ellipse cx="95.7583" cy="3519.78" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="96.2212" cy="3531.03" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="106.31" cy="3515.87" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="107.059" cy="3534.06" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="112.056" cy="3544.15" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="113.295" cy="3524.69" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 77.6792,3519.12 L 86.8882,3514.56" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 76.6799,3517.1 L 85.8888,3512.54" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 86.3885,3513.55 L 95.7583,3519.78" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 95.7583,3519.78 L 95.9473,3524.37" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 95.9473,3524.37 L 96.1362,3528.97" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 98.0641,3521.07 L 98.1964,3524.28" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 98.1964,3524.28 L 98.3286,3527.5" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 95.7583,3519.78 L 100.283,3518.1" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 100.283,3518.1 L 104.808,3516.43" style="fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 93.9377,3532.84 L 90.6666,3535.42" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 90.6666,3535.42 L 87.3955,3538.01" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 98.5046,3531.67 L 102.782,3532.87" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 102.782,3532.87 L 107.059,3534.06" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-11" d="M 107.795,3517.74 L 113.295,3524.69" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-6" d="M 87.3955,3538.01 L 89.0313,3549.15" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-7" d="M 107.059,3534.06 L 112.056,3544.15" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 107.059,3534.06 L 113.295,3524.69" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 106.121,3531.41 L 110.485,3524.85" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 111.984,3545.27 L 122.341,3545.93" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 112.127,3543.03 L 122.484,3543.69" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-10" d="M 113.295,3524.69 L 123.651,3525.35" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="76.8044" y="3519.11" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="98.0919" y="3531.65" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan><tspan style="baseline-shift:super;font-size:2.25px;">+</tspan><tspan/></text>
+<text dominant-baseline="central" text-anchor="middle" x="106.31" y="3516.43" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#CCCC00"><tspan>S</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="122.787" y="3545.43" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="124.026" y="3525.97" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="3592.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13772-SARS1</tspan></text>
+<ellipse cx="190.61" cy="3512.12" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="182.108" cy="3504.75" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="172.467" cy="3510.55" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 187.017,3520.61 L 190.61,3512.12" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 190.61,3512.12 L 182.108,3504.75" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 182.108,3504.75 L 178.1,3507.16" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 178.1,3507.16 L 174.093,3509.58" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 172.902,3512.43 L 174.575,3519.64" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="186.724" y="3523.05" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="173.717" y="3511.12" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="174.509" y="3522.08" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="3592.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13789-SARS1</tspan></text>
+<ellipse cx="82.9792" cy="3683.44" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="90.937" cy="3691.4" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="88.0896" cy="3673.42" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="100.966" cy="3686.29" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="111.473" cy="3690.33" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="99.2059" cy="3675.18" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 69.5993,3694.24 L 72.9134,3685.61" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 67.4979,3693.43 L 70.8119,3684.8" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 71.8626,3685.2 L 82.9792,3683.44" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 82.9792,3683.44 L 85.9265,3686.39" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 85.9265,3686.39 L 88.8739,3689.34" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 85.4552,3682.74 L 87.5184,3684.8" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 87.5184,3684.8 L 89.5815,3686.86" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 82.9792,3683.44 L 85.0564,3679.37" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 85.0564,3679.37 L 87.1337,3675.29" style="fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 90.61,3693.47 L 89.8927,3697.99" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 89.8927,3697.99 L 89.1754,3702.52" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 93.2204,3690.24 L 97.093,3688.27" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 97.093,3688.27 L 100.966,3686.29" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-11" d="M 89.5916,3673.65 L 99.2059,3675.18" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-6" d="M 89.1754,3702.52 L 97.9215,3709.6" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-7" d="M 100.966,3686.29 L 111.473,3690.33" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 100.966,3686.29 L 99.2059,3675.18" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 98.4784,3684.98 L 97.2465,3677.2" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 112.181,3691.2 L 120.052,3684.83" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 110.764,3689.45 L 118.636,3683.08" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-10" d="M 99.2059,3675.18 L 107.077,3668.8" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="68.3292" y="3696.27" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="90.937" y="3692.02" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan><tspan style="baseline-shift:super;font-size:2.25px;">+</tspan><tspan/></text>
+<text dominant-baseline="central" text-anchor="end" x="89.2165" y="3673.98" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#CCCC00"><tspan>S</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="119.719" y="3683.81" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="107.452" y="3668.66" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="3742.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13791-SARS1</tspan></text>
+<ellipse cx="186.758" cy="3687.68" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="176.069" cy="3691.21" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="186.708" cy="3676.42" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="169.414" cy="3682.13" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="158.215" cy="3681" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="175.989" cy="3672.99" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 204.816,3689 L 195.43,3693.23" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 205.741,3691.05 L 196.355,3695.28" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 195.893,3694.25 L 186.758,3687.68" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 186.758,3687.68 L 182.555,3689.07" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 182.555,3689.07 L 178.353,3690.45" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 184.792,3685.96 L 181.85,3686.93" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 181.85,3686.93 L 178.909,3687.9" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 186.758,3687.68 L 186.737,3682.99" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 186.737,3682.99 L 186.716,3678.3" style="fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 175.409,3693.27 L 174.024,3697.6" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 174.024,3697.6 L 172.639,3701.92" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 174.556,3689.14 L 171.985,3685.64" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 171.985,3685.64 L 169.414,3682.13" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-11" d="M 185.206,3675.94 L 175.989,3672.99" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-6" d="M 172.639,3701.92 L 161.641,3704.31" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-7" d="M 169.414,3682.13 L 158.215,3681" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 169.414,3682.13 L 175.989,3672.99" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 172.227,3682.07 L 176.829,3675.68" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 159.241,3680.54 L 155.463,3672.15" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 157.189,3681.46 L 153.411,3673.08" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-10" d="M 175.989,3672.99 L 172.21,3664.61" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="205.653" y="3690.19" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="176.069" y="3691.82" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan><tspan style="baseline-shift:super;font-size:2.25px;">+</tspan><tspan/></text>
+<text dominant-baseline="central" text-anchor="start" x="185.581" y="3676.99" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#CCCC00"><tspan>S</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="154.093" y="3671.3" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="171.866" y="3663.3" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="3742.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13801-SARS1</tspan></text>
+<ellipse cx="102.357" cy="3857.91" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="113.546" cy="3856.69" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="118.087" cy="3846.39" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="120.195" cy="3865.77" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 95.677,3850.68 L 101.449,3858.57" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 97.4933,3849.36 L 103.266,3857.24" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-1" d="M 102.357,3857.91 L 113.546,3856.69" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 103.792,3855.48 L 111.625,3854.63" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-2" d="M 113.546,3856.69 L 118.087,3846.39" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 112.168,3854.24 L 115.346,3847.03" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-3" d="M 113.546,3856.69 L 120.195,3865.77" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 118.995,3845.73 L 113.223,3837.84" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 117.179,3847.05 L 111.407,3839.17" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-5" d="M 120.195,3865.77 L 122.832,3869.37" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 122.832,3869.37 L 125.47,3872.98" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 119.17,3868.18 L 121.412,3871.24" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 121.412,3871.24 L 123.654,3874.31" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 122.802,3865.52 L 125.044,3868.58" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 125.044,3868.58 L 127.286,3871.65" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="96.21" y="3849.39" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="111.94" y="3837.87" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="125.592" y="3875.41" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="3892.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13830-SARS1</tspan></text>
+<ellipse cx="231.945" cy="3861.37" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="241.543" cy="3855.49" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="238.917" cy="3844.55" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 224.264,3854.81 L 231.945,3861.37" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 231.945,3861.37 L 241.543,3855.49" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 241.543,3855.49 L 240.455,3850.96" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 240.455,3850.96 L 239.367,3846.43" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 237.291,3844.42 L 228.573,3843.73" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="223.889" y="3854.63" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="237.666" y="3845.11" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>NH</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="228.198" y="3844.23" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="3892.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13834-SARS1</tspan></text>
+<ellipse cx="102.863" cy="3977.86" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="94.8529" cy="3985.76" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="112.858" cy="3983.03" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="99.8965" cy="3995.82" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="95.7941" cy="4006.3" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="111.024" cy="3994.14" rx="2.25099" ry="2.25099" style="fill:#E5E533;fill-rule:evenodd;stroke:#E5E533;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 91.161,3964.02 L 100.766,3967.78" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 91.9814,3961.92 L 101.586,3965.68" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 101.176,3966.73 L 102.863,3977.86" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 102.863,3977.86 L 99.9035,3980.78" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 99.9035,3980.78 L 96.9436,3983.7" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 103.557,3980.33 L 101.485,3982.38" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 101.485,3982.38 L 99.4127,3984.42" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 102.863,3977.86 L 107.11,3980.05" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 107.11,3980.05 L 111.356,3982.25" style="fill:none;fill-rule:evenodd;stroke:#CCCC00;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 92.5694,3985.38 L 88.1589,3984.66" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-4" d="M 88.1589,3984.66 L 83.7483,3983.93" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 95.8872,3987.82 L 97.8918,3991.82" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-5" d="M 97.8918,3991.82 L 99.8965,3995.82" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-11" d="M 112.548,3984.91 L 111.024,3994.14" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-6" d="M 83.7483,3983.93 L 76.608,3992.63" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-7" d="M 99.8965,3995.82 L 95.7941,4006.3" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 99.8965,3995.82 L 111.024,3994.14" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-8" d="M 101.228,3993.34 L 109.018,3992.16" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 94.9148,4007.01 L 101.064,4014.7" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-9" d="M 96.6734,4005.6 L 102.823,4013.3" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:6,6"/>
+<path class="bond-10" d="M 111.024,3994.14 L 117.174,4001.83" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="end" x="91.196" y="3963.19" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="96.7236" y="3986.38" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>N</tspan><tspan style="baseline-shift:super;font-size:2.25px;">+</tspan><tspan/></text>
+<text dominant-baseline="central" text-anchor="start" x="111.731" y="3983.59" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#CCCC00"><tspan>S</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="102.319" y="4015.66" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="117.549" y="4003.49" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="4042.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13838-SARS1</tspan></text>
+<ellipse cx="169.493" cy="3972.8" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="159.713" cy="3967.23" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="161.99" cy="3956.21" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 176.937,3966.02 L 169.493,3972.8" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 169.493,3972.8 L 159.713,3967.23" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 159.713,3967.23 L 160.658,3962.66" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 160.658,3962.66 L 161.602,3958.08" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 163.615,3956.03 L 172.3,3955.06" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="177.312" y="3965.78" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="163.24" y="3956.77" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="172.675" y="3955.53" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="4042.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13871-SARS1</tspan></text>
+<ellipse cx="42.6847" cy="4090.31" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="32.3217" cy="4094.7" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="24.0856" cy="4102.37" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 53.0486,4089.77 L 42.6847,4090.31" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 42.6847,4090.31 L 32.3217,4094.7" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 32.3217,4094.7 L 29.0166,4097.78" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 29.0166,4097.78 L 25.7115,4100.85" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 23.1283,4104.24 L 19.8457,4110.68" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="53.4238" y="4090.29" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="25.3363" y="4102.93" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="19.4705" y="4112.96" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="4192.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13873-SARS1</tspan></text>
+<ellipse cx="185.297" cy="4148.51" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="176.218" cy="4155.17" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="167.086" cy="4148.59" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 182.394,4139.7 L 185.297,4148.51" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 185.297,4148.51 L 176.218,4155.17" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 176.218,4155.17 L 172.465,4152.46" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 172.465,4152.46 L 168.712,4149.76" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 167.687,4146.71 L 169.92,4139.74" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="181.275" y="4138.39" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="168.337" y="4149.15" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="170.02" y="4138.43" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="4192.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>13957-SARS1</tspan></text>
+<ellipse cx="27.8558" cy="4270.26" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="18.5963" cy="4263.86" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="21.8201" cy="4253.08" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 35.9262,4264.1 L 27.8558,4270.26" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 27.8558,4270.26 L 18.5963,4263.86" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 18.5963,4263.86 L 19.9278,4259.41" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 19.9278,4259.41 L 21.2593,4254.95" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 23.446,4253.04 L 32.1959,4252.83" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="36.3013" y="4263.99" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="23.0708" y="4253.64" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="32.5711" y="4253.38" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="75" y="4342.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>14008-SARS1</tspan></text>
+<ellipse cx="173.746" cy="4268.6" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="164.873" cy="4261.68" rx="2.25099" ry="2.25099" style="fill:#9999E5;fill-rule:evenodd;stroke:#9999E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<ellipse cx="168.716" cy="4251.1" rx="2.25099" ry="2.25099" style="fill:#CCCCCC;fill-rule:evenodd;stroke:#CCCCCC;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-0" d="M 182.197,4262.9 L 173.746,4268.6" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-1" d="M 173.746,4268.6 L 164.873,4261.68" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 164.873,4261.68 L 166.454,4257.33" style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-2" d="M 166.454,4257.33 L 168.035,4252.98" style="fill:none;fill-rule:evenodd;stroke:#0000FF;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path class="bond-3" d="M 170.342,4251.16 L 179.089,4251.46" style="fill:none;fill-rule:evenodd;stroke:#E5E5E5;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text dominant-baseline="central" text-anchor="start" x="182.572" y="4262.87" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="end" x="169.967" y="4251.66" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#0000FF"><tspan>HN</tspan></text>
+<text dominant-baseline="central" text-anchor="start" x="179.464" y="4252.05" style="font-size:3px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#7F7F7F"><tspan>*</tspan></text>
+<text dominant-baseline="central" text-anchor="middle" x="225" y="4342.8" style="font-size:12px;font-style:normal;font-weight:normal;fill-opacity:1;stroke:none;font-family:sans-serif;fill:#000000"><tspan>14016-SARS1</tspan></text>
+</svg>
