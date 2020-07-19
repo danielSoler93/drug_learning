@@ -1,5 +1,6 @@
 import argparse
 import drug_learning.two_dimensions.Input.fingerprints as fp
+import drug_learning.two_dimensions.Errors.errors as er
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Specifying the fingerprints to which the user wants the sdf file to be converted.")
@@ -33,6 +34,18 @@ def parse_arguments():
                         default = False,
                         help = "Convert molecules to Mordred fingerprint")
 
+    parser.add_argument('-urd', "--unfolded_rdkit",
+                        dest = "unfolded_rdkit",
+                        action ='store_true',
+                        default = False,
+                        help = "Convert molecules to Unfolded RDkit fingerprint")
+
+    parser.add_argument('-voc', "--vocabulary",
+                        dest = "voc",
+                        type = str,
+                        default = None,
+                        help = "Vocabulary for unfolded rdkit fingerprint")
+
     options = parser.parse_args()
 
     return options
@@ -63,6 +76,14 @@ def main():
         mordred_fps.fit(options.infile)
         mordred_fps.transform()
         mordred_fps.save(to_csv=False, to_parquet=False, to_feather=False, to_hdf=False, to_pickle=True)
+
+    if options.unfolded_rdkit:
+        if not options.voc:
+            raise er.NotVocabularyUnfolded("Vocabulary (--voc) must be pass to use unfolded rdkit fingerprints")
+        mordred_fps = fp.UnfoldedRDkitFP(options.voc)
+        mordred_fps.fit(options.infile)
+        mordred_fps.transform()
+        mordred_fps.save(to_csv=False, to_parquet=True, to_feather=False, to_hdf=False, to_pickle=False)
 
 if __name__ == "__main__":
     main()
