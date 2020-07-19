@@ -7,11 +7,13 @@ master: This should always be working and ready for production!
 
 devel: Only for pre-releases. This should be the test branch before merging to master. **All custom function should have their own unit-test here!**
 
-2D: ligand-based, 2D Deep learning methodologies to screen billions of compounds
+2D: ligand-based, 2D Deep learning methodologies to screen billions of compounds (Joan)
 
-3D: structural-based,  3D Deep learning methodologies to retrieve patterns out of the output of simulations
+3D: structural-based,  3D Deep learning methodologies to retrieve patterns out of the output of simulations (Alexis)
 
-simulation: Scripts to analyse the output of the simulation (sub-pocket, hbonds, pharmacophore...)
+predictions: python-API to predict over commercial libraries of compounds (Ana)
+
+simulation: Scripts to analyse the output of the simulation (sub-pocket, hbonds, pharmacophore...) (Carles&Marti)
 
 To avoid merge conflicts on the maste branch, when merging please push to your branch  and then pull request to devel  and to  master **(your_branch > devel > master)** 
 
