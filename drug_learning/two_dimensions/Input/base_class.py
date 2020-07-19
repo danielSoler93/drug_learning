@@ -28,8 +28,7 @@ class Fingerprint(ot.Saver):
             to_pickle=False):
         if not self.mol_names:
             raise er.NotTransformException("Must transform the input molecules before save")
-        column_names = [str(i) for i in list(range(self.features.shape[1]))]
-        df = pd.DataFrame(self.features, index=self.mol_names, columns=column_names)
+        df = pd.DataFrame(self.features, index=self.mol_names, columns=self.columns)
         ot.Saver.__init__(self, df)
         if to_csv:
             self.to_csv(self.filename + self.fp_name + ".csv")
