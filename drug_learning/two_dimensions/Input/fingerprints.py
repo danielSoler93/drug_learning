@@ -17,6 +17,9 @@ class MorganFP(bc.Fingerprint):
         fts = []
         self.mol_names = []
         for mol in self.structures:
+            if mol is None:
+                # skip problematic molecules
+                continue
             fp = AllChem.GetMorganFingerprintAsBitVect(mol,2,nBits=2048)
             arr = np.zeros((0,), dtype=np.int8)
             DataStructs.ConvertToNumpyArray(fp,arr)
@@ -36,6 +39,9 @@ class MACCS_FP(bc.Fingerprint):
         fts = []
         self.mol_names = []
         for mol in self.structures:
+            if mol is None:
+                # skip problematic molecules
+                continue
             fp = MACCSkeys.GenMACCSKeys(mol)
             arr = np.zeros((0,), dtype=np.int8)
             DataStructs.ConvertToNumpyArray(fp,arr)
@@ -55,6 +61,9 @@ class RDkitFP(bc.Fingerprint):
         fts = []
         self.mol_names = []
         for mol in self.structures:
+            if mol is None:
+                # skip problematic molecules
+                continue
             fp = RDKFingerprint(mol)
             arr = np.zeros((0,), dtype=np.int8)
             DataStructs.ConvertToNumpyArray(fp,arr)
@@ -80,6 +89,9 @@ class UnfoldedRDkitFP(bc.Fingerprint):
         fts = []
         self.mol_names = []
         for mol in self.structures:
+            if mol is None:
+                # skip problematic molecules
+                continue
             fingerprint = []
             fp = AllChem.UnfoldedRDKFingerprintCountBased(mol)
             fpDict = fp.GetNonzeroElements()
@@ -106,5 +118,5 @@ class MordredFP(bc.Fingerprint):
         df = calc.pandas(self.structures)
         self.columns = df.columns
         self.features = df.values
-        self.mol_names = [mol.GetProp("_Name") for mol in self.structures]
+        self.mol_names = [mol.GetProp("_Name") for mol in self.structures if mol is not None]
         return self.features
