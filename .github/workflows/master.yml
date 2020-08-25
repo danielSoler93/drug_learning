@@ -14,6 +14,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    
+    - uses: goanpeca/setup-miniconda@v1
+      name:  Conda setup
+      with:
+        python-version: 3.7
+        activate-environment: standard
+        environment-file: devtools/envs/standard.yaml
+        auto-activate-base: false
 
     - name: Install dependencies
       shell: bash -l {0}
