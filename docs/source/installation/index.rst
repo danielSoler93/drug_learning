@@ -6,11 +6,7 @@ From Conda (recommended)
 
 ::
 
- conda create -n drug_learning_env ...
-
- conda activate drug_learning_env ...
-
- conda install ...
+  conda install -c anasf97 -c conda-forge drug_learning
 
 
 From PyPi
