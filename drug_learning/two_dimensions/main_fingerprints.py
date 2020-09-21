@@ -1,44 +1,52 @@
 import argparse
+import glob
+from itertools import chain
 import drug_learning.two_dimensions.Input.fingerprints as fp
 import drug_learning.two_dimensions.Input.applicability_domain as ad
+import drug_learning.two_dimensions.Helpers.split as sp
+import drug_learning.two_dimensions.Helpers.parallel as pl
 import drug_learning.two_dimensions.Errors.errors as er
 
-def parse_arguments():
-    parser = argparse.ArgumentParser(description="Specify the fingerprints and the file format to which the user wants the sdf file to be converted.\
-                                                  By default, the output format is parquet.")
-    parser.add_argument('-i', '--input',
-                        dest="infile",
-                        action="store",
-                        help="Input sdf file")
+
+def get_parser():
+    parser = argparse.ArgumentParser(description="Specify the fingerprints and the file format to which the user wants the sdf file to be converted.")
+    parser.add_argument("infile",
+                        type=str,
+                        help="Input sdf file(s)")
 
     parser.add_argument('-mo', '--morgan',
                         dest ="morgan",
-                        action = "store_true",
-                        default = False,
+                        action = "store_const",
+                        const = fp.MorganFP,
+                        default = None,
                         help = "Convert molecules to Morgan fingerprint")
 
     parser.add_argument('-ma', "--maccs",
                         dest = "maccs",
-                        action = "store_true",
-                        default = False,
+                        action = "store_const",
+                        const = fp.MACCS_FP,
+                        default = None,
                         help = "Convert molecules to MACCS fingerprint")
 
     parser.add_argument('-rd', "--rdkit",
                         dest = "rdkit",
-                        action = "store_true",
-                        default = False,
+                        action = "store_const",
+                        const = fp.RDkitFP,
+                        default = None,
                         help = "Convert molecules to RDkit fingerprint")
 
     parser.add_argument('-md', "--mordred",
                         dest = "mordred",
-                        action ='store_true',
-                        default = False,
+                        action ='store_const',
+                        const = fp.MordredFP,
+                        default = None,
                         help = "Convert molecules to Mordred fingerprint")
 
     parser.add_argument('-urd', "--unfolded_rdkit",
                         dest = "unfolded_rdkit",
-                        action ='store_true',
-                        default = False,
+                        action ='store_const',
+                        const = fp.UnfoldedRDkitFP,
+                        default = None,
                         help = "Convert molecules to Unfolded RDkit fingerprint")
 
     parser.add_argument('-voc', "--vocabulary",
@@ -56,7 +64,7 @@ def parse_arguments():
     parser.add_argument('-pq', "--parquet",
                         dest = "to_parquet",
                         action = "store_true",
-                        default = True,
+                        default = False,
                         help = "Save output to parquet")
 
     parser.add_argument('-f', "--feather",
@@ -77,57 +85,60 @@ def parse_arguments():
                         default = False,
                         help = "Save output to pickle")
 
+    parser.add_argument('-n', "--nworkers",
+                        dest = "n_workers",
+                        action ='store',
+                        default = 1,
+                        type = int,
+                        help = "Number of workers to parallelize the sdf transform into fingerprints")
+
+    subparsers = parser.add_subparsers(dest = "split")
+
+    parser_split = subparsers.add_parser("split", help = "Split the input sdf files into chunks" )
+
+    parser_split.add_argument('-ch', "--chunk",
+                        dest = "n_chunks",
+                        action ='store',
+                        default = 1000,
+                        type = int,
+                        help = "Number of molecules in each chunk.")
+
+    parser_split.add_argument('-nsp', "--nworkers-sp",
+                        dest = "nw_sp",
+                        action ='store',
+                        default = 1,
+                        type = int,
+                        help = "Number of workers to parallelize the split into chunks.")
+
     return parser
 
+def sdf_to_fingerprint(input_file, fp_list, urdkit_voc, format_dict):
+    for fp_class in fp_list:
+       if fp_class:
+            if fp_class == fp.UnfoldedRDkitFP:
+                fingerprint = fp_class(urdkit_voc)
+            else:
+                fingerprint = fp_class()
+            fingerprint.fit(input_file)
+            fingerprint.transform()
+            fingerprint.save(**format_dict)
+
 def main():
-    parser = parse_arguments()
+    parser = get_parser()
     opt = parser.parse_args()
 
-    if opt.morgan:
-        morgan_fps = fp.MorganFP()
-        morgan_fps.fit(opt.infile)
-        morgan_fps.transform()
-        morgan_fps.save(to_csv=opt.to_csv, to_parquet=opt.to_parquet, to_feather=opt.to_feather, to_hdf=opt.to_hdf, to_pickle=opt.to_pickle)
+    input_sdfs = glob.glob(opt.infile)
 
-    if opt.maccs:
-        maccs_fps = fp.MACCS_FP()
-        maccs_fps.fit(opt.infile)
-        maccs_fps.transform()
-        maccs_fps.save(to_csv=opt.to_csv, to_parquet=opt.to_parquet, to_feather=opt.to_feather, to_hdf=opt.to_hdf, to_pickle=opt.to_pickle)
+    if opt.split:
+        input_sdfs = pl.parallelize(sp.split_in_chunks, input_sdfs, opt.nw_sp, n_chunks = opt.n_chunks)
+        input_sdfs = list(chain.from_iterable(input_sdfs))
 
-    if opt.rdkit:
-        rdkit_fps = fp.RDkitFP()
-        rdkit_fps.fit(opt.infile)
-        rdkit_fps.transform()
-        rdkit_fps.save(to_csv=opt.to_csv, to_parquet=opt.to_parquet, to_feather=opt.to_feather, to_hdf=opt.to_hdf, to_pickle=opt.to_pickle)
+    fp_options = [opt.morgan, opt.maccs, opt.rdkit, opt.mordred, opt.unfolded_rdkit]
 
-    if opt.mordred:
-        mordred_fps = fp.MordredFP()
-        mordred_fps.fit(opt.infile)
-        mordred_fps.transform()
-        mordred_fps.save(to_csv=opt.to_csv, to_parquet=opt.to_parquet, to_feather=opt.to_feather, to_hdf=opt.to_hdf, to_pickle=opt.to_pickle)
+    format_options = {'to_csv' : opt.to_csv, 'to_parquet' : opt.to_parquet, 'to_feather' : opt.to_feather,
+                     'to_hdf' : opt.to_hdf, 'to_pickle' : opt.to_pickle}
 
-    if opt.unfolded_rdkit:
-        if not opt.voc:
-            raise er.NotVocabularyUnfolded("Vocabulary (--voc) must be pass to use unfolded rdkit fingerprints")
-        unfolded_rdkit_fps = fp.UnfoldedRDkitFP(opt.voc)
-        unfolded_rdkit_fps.fit(opt.infile)
-        unfolded_rdkit_fps.transform()
-        unfolded_rdkit_fps.save(to_csv=opt.to_csv, to_parquet=opt.to_parquet, to_feather=opt.to_feather, to_hdf=opt.to_hdf, to_pickle=opt.to_pickle)
+    pl.parallelize(sdf_to_fingerprint, input_sdfs, opt.n_workers, fp_list = fp_options, urdkit_voc = opt.voc, format_dict = format_options )
 
 if __name__ == "__main__":
     main()
-    # sars2 = mor.fit("test_ad_molecule2.sdf")
-    # sars2 = mor.transform()
-    # import pandas as pd
-    # import numpy as np
-    # import os
-    # PATH_DATA_SARS2 = "../datasets/SARS2/"
-    # PATH_DATA_SARS1 = "../datasets/SAR1/"
-    # #features_SARS2 = np.load(os.path.join(PATH_DATA_SARS2, "features_SARS2.npy"))
-    # #features_SARS1 = np.load(os.path.join(PATH_DATA_SARS1, "features_SARS1.npy"))
-    # AD = ad.ApplicabilityDomain()
-    # AD.fit(sars1)
-    # AD.predict(sars1)
-    # AD.thresholds
-    # AD.n_insiders

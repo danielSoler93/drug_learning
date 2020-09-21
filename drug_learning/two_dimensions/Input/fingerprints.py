@@ -5,7 +5,6 @@ from rdkit.Chem import RDKFingerprint
 from rdkit.Chem import AllChem
 from rdkit.Chem import MACCSkeys
 from rdkit.Chem import DataStructs
-from rdkit.Chem.rdchem import AtomSanitizeException, KekulizeException
 from mordred import Calculator, descriptors
 from drug_learning.two_dimensions.Input import base_class as bc
 from drug_learning.two_dimensions.Errors import errors as er
@@ -75,6 +74,8 @@ class UnfoldedRDkitFP(bc.Fingerprint):
 
     def __init__(self, voc):
         super().__init__()
+        if not voc:
+            raise er.NotVocabularyUnfolded("Vocabulary (--voc) must be pass to use unfolded rdkit fingerprints")
         filename, file_extension = os.path.splitext(voc)
         if file_extension != ".npy":
             raise er.IncorrectFormat("Vocabulary must be an npy file (numpy.save)")
@@ -114,7 +115,7 @@ class MordredFP(bc.Fingerprint):
         self.mol_names = [mol.GetProp("_Name") for mol in self.structures]
         return self.features
 
-    def clean(self):    
+    def clean(self):
         self.df = self.df.apply(pd.to_numeric, errors="coerce")
         self.df = self.df.astype("float64")
         self.df[self.df > 1e3] = None
