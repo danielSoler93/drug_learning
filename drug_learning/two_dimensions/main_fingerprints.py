@@ -14,6 +14,13 @@ def get_parser():
                         type=str,
                         help="Input sdf file(s)")
 
+    parser.add_argument('-n', "--nworkers",
+                        dest = "n_workers",
+                        action ='store',
+                        default = 1,
+                        type = int,
+                        help = "Number of workers to parallelize the sdf transform into fingerprints")
+
     parser.add_argument('-mo', '--morgan',
                         dest ="morgan",
                         action = "store_const",
@@ -58,39 +65,28 @@ def get_parser():
     parser.add_argument('-c', "--csv",
                         dest = "to_csv",
                         action = "store_true",
-                        default = False,
                         help = "Save output to csv")
 
     parser.add_argument('-pq', "--parquet",
                         dest = "to_parquet",
                         action = "store_true",
-                        default = False,
                         help = "Save output to parquet")
 
     parser.add_argument('-f', "--feather",
                         dest = "to_feather",
-                        action ='store_true',
-                        default = False,
+                        action ="store_true",
                         help = "Save output to feather")
 
     parser.add_argument('-hdf', "--hdf",
                         dest = "to_hdf",
                         action = "store_true",
-                        default = False,
                         help = "Save output to hdf")
 
     parser.add_argument('-pk', "--pickle",
                         dest = "to_pickle",
-                        action ='store_true',
-                        default = False,
+                        action ="store_true",
                         help = "Save output to pickle")
 
-    parser.add_argument('-n', "--nworkers",
-                        dest = "n_workers",
-                        action ='store',
-                        default = 1,
-                        type = int,
-                        help = "Number of workers to parallelize the sdf transform into fingerprints")
 
     subparsers = parser.add_subparsers(dest = "split")
 
