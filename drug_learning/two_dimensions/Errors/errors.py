@@ -4,3 +4,9 @@ class NotFittedException(Exception):
 
 class NotTransformException(Exception):
     pass
+
+class NotVocabularyUnfolded(Exception):
+    pass
+
+class IncorrectFormat(Exception):
+    pass

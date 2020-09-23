@@ -104,7 +104,7 @@ def get_parser():
                         action ='store',
                         default = 1,
                         type = int,
-                        help = "Number of workers to parallelize the split into chunks.")
+                        help = "Number of workers to parallelize the split into chunks."
 
     return parser
 
@@ -135,6 +135,7 @@ def main():
                      'to_hdf' : opt.to_hdf, 'to_pickle' : opt.to_pickle}
 
     pl.parallelize(sdf_to_fingerprint, input_sdfs, opt.n_workers, fp_list = fp_options, urdkit_voc = opt.voc, format_dict = format_options )
+                              
 
 if __name__ == "__main__":
     main()
