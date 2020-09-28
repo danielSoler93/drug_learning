@@ -24,12 +24,14 @@ class Fingerprint(ot.Saver):
         if not self.fitted:
             raise er.NotFittedException("Must fit the model before transform")
 
+    def clean(self):
+        return self.features
+
     def save(self, to_csv=False, to_parquet=True, to_feather=False, to_hdf=False,
             to_pickle=False):
         if not self.mol_names:
             raise er.NotTransformException("Must transform the input molecules before save")
-        df = pd.DataFrame(self.features, index=self.mol_names, columns=self.columns)
-        ot.Saver.__init__(self, df)
+        self.df = pd.DataFrame(self.features, index=self.mol_names, columns=self.columns)
         if to_csv:
             self.to_csv(self.filename + self.fp_name + ".csv")
         if to_parquet:
