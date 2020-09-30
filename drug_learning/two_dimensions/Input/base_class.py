@@ -27,8 +27,10 @@ class Fingerprint(ot.Saver):
     def clean(self):
         return self.features
 
-    def save(self, to_csv=False, to_parquet=True, to_feather=False, to_hdf=False,
+    def save(self, to_csv=False, to_parquet=False, to_feather=False, to_hdf=False,
             to_pickle=False):
+        if not to_csv and not to_parquet and not to_feather and not to_hdf and not  to_pickle:
+            raise er.NotFormat("Must specify an output format")
         if not self.mol_names:
             raise er.NotTransformException("Must transform the input molecules before save")
         self.df = pd.DataFrame(self.features, index=self.mol_names, columns=self.columns)
