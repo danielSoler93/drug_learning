@@ -106,10 +106,11 @@ class MordredFP(bc.Fingerprint):
     fp_name = "_MordredFP"
 
     def transform(self):
+        print("Transforming to mordred fp...")
         super().transform()
         self.mol_names = []
         calc = Calculator(descriptors, ignore_3D=True)
-        self.df = calc.pandas(self.structures, nproc=1)
+        self.df = calc.pandas(self.structures, nproc=1, quiet=True)
         self.columns = self.df.columns
         self.features = self.df.values
         self.mol_names = [mol.GetProp("_Name") for mol in self.structures]
