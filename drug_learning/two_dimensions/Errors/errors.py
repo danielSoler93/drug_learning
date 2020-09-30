@@ -10,3 +10,6 @@ class NotVocabularyUnfolded(Exception):
 
 class IncorrectFormat(Exception):
     pass
+
+class NotFormat(Exception):
+    pass
