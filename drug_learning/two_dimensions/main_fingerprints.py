@@ -104,7 +104,7 @@ def get_parser():
                         action ='store',
                         default = 1,
                         type = int,
-                        help = "Number of workers to parallelize the split into chunks."
+                        help = "Number of workers to parallelize the split into chunks.")
 
     return parser
 
