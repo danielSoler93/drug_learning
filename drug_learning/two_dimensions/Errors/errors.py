@@ -11,5 +11,5 @@ class NotVocabularyUnfolded(Exception):
 class IncorrectFormat(Exception):
     pass
 
-class NotFormat(Exception):
+class NotOutputFormat(Exception):
     pass
