@@ -49,7 +49,7 @@ class Fingerprint(ot.Saver):
             # assume for the moment that any file that is not mol2 will be an
             # sdf, might want stricter parsing if more formats are to be
             # supported
-            self.structures = Chem.SDMolSupplier(input_file)
+            self.structures = (mol for mol in Chem.SDMolSupplier(input_file) if mol is not None) 
         self.fitted = True
         return self.structures
 
