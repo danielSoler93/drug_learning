@@ -109,7 +109,7 @@ class MordredFP(bc.Fingerprint):
         super().transform()
         self.mol_names = []
         calc = Calculator(descriptors, ignore_3D=True)
-        self.df = calc.pandas(self.structures)
+        self.df = calc.pandas(self.structures, nproc=1)
         self.columns = self.df.columns
         self.features = self.df.values
         self.mol_names = [mol.GetProp("_Name") for mol in self.structures]
