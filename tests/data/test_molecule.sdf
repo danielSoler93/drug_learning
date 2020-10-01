@@ -1,0 +1,313 @@
+core,42852325
+                    3D
+ Schrodinger Suite 2020-1.
+ 29 29  0  0  1  0            999 V2000
+   -2.8099   -0.0736   -0.5591 C   0  0  0  0  0  0
+   -2.0147   -0.8903   -1.2895 N   0  0  0  0  0  0
+   -0.6750   -0.6954   -1.2233 C   0  0  0  0  0  0
+   -0.0609    0.2973   -0.4377 C   0  0  0  0  0  0
+   -0.9269    1.1280    0.2973 C   0  0  0  0  0  0
+   -2.3130    0.9572    0.2514 C   0  0  0  0  0  0
+   -3.0896    1.8165    1.0034 O   0  0  0  0  0  0
+   -4.5051    1.6704    0.9709 C   0  0  0  0  0  0
+   -0.1012   -1.3899   -1.8175 H   0  0  0  0  0  0
+   -0.5462    1.9360    0.9020 H   0  0  0  0  0  0
+   -4.9605    2.4227    1.6147 H   0  0  0  0  0  0
+   -4.8147    0.6906    1.3380 H   0  0  0  0  0  0
+   -3.8677   -0.2689   -0.6473 H   0  0  0  0  0  0
+   -4.8989    1.8160   -0.0364 H   0  0  0  0  0  0
+    3.6134    0.2441   -1.5494 C   0  0  0  0  0  0
+    2.1706   -0.2606   -1.3770 C   0  0  0  0  0  0
+    1.3524    0.4711   -0.3959 N   0  0  0  0  0  0
+    1.9551    0.8012    0.9057 C   0  0  0  0  0  0
+    2.0674   -0.4048    1.8516 C   0  0  0  0  0  0
+    4.1027   -0.2763   -2.3729 H   0  0  0  0  0  0
+    4.2158    0.0645   -0.6588 H   0  0  0  0  0  0
+    3.6382    1.3110   -1.7737 H   0  0  0  0  0  0
+    1.6873   -0.2039   -2.3534 H   0  0  0  0  0  0
+    2.1857   -1.3171   -1.1054 H   0  0  0  0  0  0
+    2.9388    1.2444    0.7550 H   0  0  0  0  0  0
+    1.3972    1.5853    1.4128 H   0  0  0  0  0  0
+    2.5192   -0.1097    2.7987 H   0  0  0  0  0  0
+    2.6892   -1.1913    1.4228 H   0  0  0  0  0  0
+    1.0880   -0.8301    2.0732 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  2  0  0  0
+  1 13  1  0  0  0
+  2  3  2  0  0  0
+  3  4  1  0  0  0
+  3  9  1  0  0  0
+  4  5  2  0  0  0
+  4 17  1  0  0  0
+  5  6  1  0  0  0
+  5 10  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+  8 11  1  0  0  0
+  8 12  1  0  0  0
+  8 14  1  0  0  0
+ 15 16  1  0  0  0
+ 15 20  1  0  0  0
+ 15 21  1  0  0  0
+ 15 22  1  0  0  0
+ 16 17  1  0  0  0
+ 16 23  1  0  0  0
+ 16 24  1  0  0  0
+ 17 18  1  0  0  0
+ 18 19  1  0  0  0
+ 18 25  1  0  0  0
+ 18 26  1  0  0  0
+ 19 27  1  0  0  0
+ 19 28  1  0  0  0
+ 19 29  1  0  0  0
+M  END
+> <i_m_ct_stereo_status>
+1
+
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+1845
+
+> <s_m_entry_name>
+ligands.1
+
+> <s_pdb_PDB_TITLE>
+P38 KINASE CRYSTAL STRUCTURE IN COMPLEX WITH SMALL MOLECULE INHIBITOR
+
+> <s_pdb_PDB_ID>
+1W7H
+
+> <i_pdb_PDB_Model>
+1
+
+> <r_pdb_PDB_CRYST1_a>
+45.771
+
+> <r_pdb_PDB_CRYST1_b>
+87.101
+
+> <r_pdb_PDB_CRYST1_c>
+126.337
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+02-SEP-04
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <r_pdb_PDB_RESOLUTION>
+2.21
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+7
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/home/agruzka/frag_test/1w7h
+
+> <s_m_Source_File>
+ligands.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <r_f3d_energy>
+7.16541
+
+> <i_f3d_flags>
+0
+
+> <i_rge_num_r_groups>
+1
+
+> <r_rge_occupation_R1>
+1
+
+> <s_rge_R1>
+42852325
+
+> <s_rge_R1_s_m_title>
+42852325
+
+> <s_rge_R1_s_m_entry_id>
+18059
+
+> <s_rge_R1_s_m_entry_name>
+eMol_BB_r-groups.1041
+
+> <s_rge_R1_s_m_smiles>
+CCN([*])CC
+
+> <b_rge_R1_b_sd_chiral_flag>
+0
+
+> <i_rge_R1_i_sd_version>
+0
+
+> <s_rge_R1_s_m_Source_File>
+eMol_BB_r-groups-dedup.mae
+
+> <i_rge_R1_i_m_ct_enhanced_stereo_status>
+1
+
+> <i_rge_R1_i_m_Source_File_Index>
+864
+
+> <s_rge_R1_s_m_Source_Path>
+/Users/konze/projects/pathfinder/r-groups
+
+> <s_rge_R1_s_sd_Source_Path>
+/Users/konze/projects/pathfinder/reactant sets/eMolecules
+
+> <s_rge_R1_s_sd_Source_File>
+eMol BB r-groups.mae
+
+> <i_rge_R1_i_sd_Source_File_Index>
+1041
+
+> <r_rge_R1_r_sd_MW>
+73.1368
+
+> <i_rge_R1_i_sd_RB>
+2
+
+> <i_rge_R1_i_sd_HeavyAtomCount>
+5
+
+> <i_rge_R1_i_sd_HBA>
+0
+
+> <i_rge_R1_i_sd_HBD>
+0
+
+> <r_rge_R1_r_sd_PSA>
+12.03
+
+> <i_rge_R1_i_sd_ChiralCenterCount>
+0
+
+> <i_rge_R1_i_sd_ChiralCenterCountAllPossible>
+0
+
+> <i_rge_R1_i_sd_RingCount>
+0
+
+> <r_rge_R1_r_sd_AlogP>
+0.4818
+
+> <s_rge_R1_s_sd_subgroup_title>
+eMol BB r-groups
+
+> <s_rge_R1_s_sd_subgroupid>
+eMol BB r-groups
+
+> <i_rge_R1_i_sd_subgroup_collapsed>
+0
+
+> <s_rge_R1_s_sd_Unique_SMILES_Stereo>
+CCNCC
+
+> <i_rge_R1_i_sd_canvasUID>
+982
+
+> <s_rge_R1_s_canvas_Unique_SMILES_Stereo>
+CCNCC
+
+> <s_m_job_name>
+ligprep_1
+
+> <s_m_source_file>
+ligprep_1.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+49012
+
+> <s_epik_input>
+W0NIM11PYyhbY0hdMSlbY0hdbltjSF1jMU4oW0NIMl1bQ0gzXSlbQ0gyXVtDSDNd
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0710
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0710
+
+> <r_epik_State_Penalty>
+  0.0607
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0606802134933627
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+25.464006
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+core,42852325-1
+
+> <s_m_subgroup_title>
+ligprep_1-out1
+
+> <s_m_subgroupid>
+ligprep_1-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

@@ -1,5 +1,6 @@
 import numpy as np
-import os
+import pandas as pd
+from scipy import stats
 from rdkit.Chem import RDKFingerprint
 from rdkit.Chem import AllChem
 from rdkit.Chem import MACCSkeys
@@ -17,7 +18,10 @@ class MorganFP(bc.Fingerprint):
         fts = []
         self.mol_names = []
         for mol in self.structures:
-            fp = AllChem.GetMorganFingerprintAsBitVect(mol,2,nBits=2048)
+            try:
+                fp = AllChem.GetMorganFingerprintAsBitVect(mol,2,nBits=2048)
+            except:
+                continue
             arr = np.zeros((0,), dtype=np.int8)
             DataStructs.ConvertToNumpyArray(fp,arr)
             fts.append(arr)
@@ -68,11 +72,13 @@ class UnfoldedRDkitFP(bc.Fingerprint):
 
     fp_name = "_UnfoldedRDkitFP"
 
-
     def __init__(self, voc):
+        super().__init__()
+        if not voc:
+            raise er.NotVocabularyUnfolded("Vocabulary (--voc) must be pass to use unfolded rdkit fingerprints")
         filename, file_extension = os.path.splitext(voc)
         if file_extension != ".npy":
-            er.IncorrectFormat("Vocabulary must be an npy file (numpy.save)")
+            raise er.IncorrectFormat("Vocabulary must be an npy file (numpy.save)")
         self.voc = np.load(voc)
 
     def transform(self):
@@ -100,14 +106,24 @@ class MordredFP(bc.Fingerprint):
     fp_name = "_MordredFP"
 
     def transform(self):
+        print("Transforming to mordred fp...")
         super().transform()
         self.mol_names = []
         calc = Calculator(descriptors, ignore_3D=True)
-        mols = []
-        for mol in self.structures:
-            mols.append(mol)
-            self.mol_names.append(mol.GetProp("_Name"))
-        df = calc.pandas(mols)
-        self.columns = df.columns
-        self.features = df.values
+        self.df = calc.pandas(self.structures, nproc=1, quiet=True)
+        self.columns = self.df.columns
+        self.features = self.df.values
+        self.mol_names = [mol.GetProp("_Name") for mol in self.structures]
+        return self.features
+
+    def clean(self):
+        self.df = self.df.apply(pd.to_numeric, errors="coerce")
+        self.df = self.df.astype("float64")
+        self.df[self.df > 1e3] = None
+        self.df = self.df.dropna(axis=1)
+        mask = ~np.any(np.abs(stats.zscore(self.df)) < 2, axis=0)
+        self.df = self.df.drop(columns=self.df.columns[mask])
+
+        self.columns = self.df.columns
+        self.features = self.df.values
         return self.features

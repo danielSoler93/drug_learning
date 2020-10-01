@@ -1,0 +1,40 @@
+package:
+  name: drug_learning
+  version: 1.0.0
+
+about:
+  home: https://github.com/anasf97/drug_learning
+  license: Apache
+  license_file: LICENSE
+  summary: Python API for converting 3D molecules into fingerprints or descriptors
+
+source:
+  path: ../
+
+build:
+  script: python -m pip install . --no-deps -vv
+  number: 0
+
+requirements:
+  host:
+    - python
+    - setuptools
+
+  run:
+    # Base dependencies
+    - python
+    - numpy
+    - scipy
+    - pandas
+    - pytables
+    - pyarrow
+    - fastparquet
+    - mordred
+    - pytest
+    - rdkit
+
+test:
+  imports:
+    - drug_learning
+  command:
+    - python -m drug_learning.two_dimensions.main_fingerprints -h

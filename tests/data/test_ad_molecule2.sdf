@@ -1,0 +1,600 @@
+core,31214600
+                    3D
+ Schrodinger Suite 2020-1.
+ 22 23  0  0  1  0            999 V2000
+   -0.7121   -1.1665    0.0000 C   0  0  0  0  0  0
+   -2.0659   -1.2287    0.0000 N   0  0  0  0  0  0
+   -2.7519   -0.0592    0.0000 C   0  0  0  0  0  0
+   -2.1392    1.2010   -0.0000 C   0  0  0  0  0  0
+   -0.7352    1.2273   -0.0000 C   0  0  0  0  0  0
+    0.0044    0.0312    0.0000 C   0  0  0  0  0  0
+    1.3830   -0.0504    0.0000 O   0  0  0  0  0  0
+    2.1446    1.1516    0.0000 C   0  0  0  0  0  0
+   -3.8267   -0.1616    0.0000 H   0  0  0  0  0  0
+   -0.2212    2.1755   -0.0000 H   0  0  0  0  0  0
+    3.2061    0.9038    0.0000 H   0  0  0  0  0  0
+    1.9457    1.7516    0.8893 H   0  0  0  0  0  0
+   -0.1936   -2.1142    0.0000 H   0  0  0  0  0  0
+    1.9457    1.7516   -0.8893 H   0  0  0  0  0  0
+   -6.0901    4.2366   -0.0000 F   0  0  0  0  0  0
+   -4.8219    3.8970   -0.0000 C   0  0  0  0  0  0
+   -4.3685    2.5737   -0.0000 C   0  0  0  0  0  0
+   -2.9765    2.4468   -0.0000 C   0  0  0  0  0  0
+   -2.2344    4.0295   -0.0000 S   0  0  0  0  0  0
+   -3.7804    4.8084   -0.0000 C   0  0  0  0  0  0
+   -5.0456    1.7329   -0.0000 H   0  0  0  0  0  0
+   -3.8489    5.8861   -0.0000 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  2  0  0  0
+  1 13  1  0  0  0
+  2  3  2  0  0  0
+  3  4  1  0  0  0
+  3  9  1  0  0  0
+  4  5  2  0  0  0
+  4 18  1  0  0  0
+  5  6  1  0  0  0
+  5 10  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+  8 11  1  0  0  0
+  8 12  1  0  0  0
+  8 14  1  0  0  0
+ 15 16  1  0  0  0
+ 16 20  2  0  0  0
+ 16 17  1  0  0  0
+ 17 18  2  0  0  0
+ 17 21  1  0  0  0
+ 18 19  1  0  0  0
+ 19 20  1  0  0  0
+ 20 22  1  0  0  0
+M  END
+> <i_m_ct_stereo_status>
+1
+
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+3865
+
+> <s_m_entry_name>
+ligands.1292
+
+> <s_pdb_PDB_TITLE>
+P38 KINASE CRYSTAL STRUCTURE IN COMPLEX WITH SMALL MOLECULE INHIBITOR
+
+> <s_pdb_PDB_ID>
+1W7H
+
+> <i_pdb_PDB_Model>
+1
+
+> <r_pdb_PDB_CRYST1_a>
+45.771
+
+> <r_pdb_PDB_CRYST1_b>
+87.101
+
+> <r_pdb_PDB_CRYST1_c>
+126.337
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+02-SEP-04
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <r_pdb_PDB_RESOLUTION>
+2.21
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+7
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/home/agruzka/frag_test/1w7h
+
+> <s_m_Source_File>
+ligands.sdf
+
+> <i_m_Source_File_Index>
+1292
+
+> <r_f3d_energy>
+6.02867
+
+> <i_f3d_flags>
+0
+
+> <i_rge_num_r_groups>
+1
+
+> <r_rge_occupation_R1>
+1
+
+> <s_rge_R1>
+31214600
+
+> <s_rge_R1_s_m_title>
+31214600
+
+> <s_rge_R1_s_m_entry_id>
+17372
+
+> <s_rge_R1_s_m_entry_name>
+eMol_BB_r-groups.715
+
+> <s_rge_R1_s_m_smiles>
+[*]c1cc(F)cs1
+
+> <b_rge_R1_b_sd_chiral_flag>
+0
+
+> <i_rge_R1_i_sd_version>
+0
+
+> <s_rge_R1_s_m_Source_File>
+eMol_BB_r-groups-dedup.mae
+
+> <i_rge_R1_i_m_ct_enhanced_stereo_status>
+1
+
+> <i_rge_R1_i_m_Source_File_Index>
+580
+
+> <s_rge_R1_s_m_Source_Path>
+/Users/konze/projects/pathfinder/r-groups
+
+> <s_rge_R1_s_sd_Source_Path>
+/Users/konze/projects/pathfinder/reactant sets/eMolecules
+
+> <s_rge_R1_s_sd_Source_File>
+eMol BB r-groups.mae
+
+> <i_rge_R1_i_sd_Source_File_Index>
+715
+
+> <r_rge_R1_r_sd_MW>
+102.13
+
+> <i_rge_R1_i_sd_RB>
+0
+
+> <i_rge_R1_i_sd_HeavyAtomCount>
+6
+
+> <i_rge_R1_i_sd_HBA>
+0
+
+> <i_rge_R1_i_sd_HBD>
+0
+
+> <r_rge_R1_r_sd_PSA>
+28.24
+
+> <i_rge_R1_i_sd_ChiralCenterCount>
+0
+
+> <i_rge_R1_i_sd_ChiralCenterCountAllPossible>
+0
+
+> <i_rge_R1_i_sd_RingCount>
+1
+
+> <r_rge_R1_r_sd_AlogP>
+1.3329
+
+> <s_rge_R1_s_sd_subgroup_title>
+eMol BB r-groups
+
+> <s_rge_R1_s_sd_subgroupid>
+eMol BB r-groups
+
+> <i_rge_R1_i_sd_subgroup_collapsed>
+0
+
+> <s_rge_R1_s_sd_Unique_SMILES_Stereo>
+Fc1ccsc1
+
+> <i_rge_R1_i_sd_canvasUID>
+656
+
+> <s_rge_R1_s_canvas_Unique_SMILES_Stereo>
+Fc1ccsc1
+
+> <s_m_job_name>
+ligprep_1
+
+> <s_m_source_file>
+ligprep_1.maegz
+
+> <i_m_source_file_index>
+1292
+
+> <i_lp_mmshare_version>
+49012
+
+> <s_epik_input>
+W0NIM11PYyhbY0hdMSlbY0hdbltjSF1jMS1jKFtjSF1jMkYpc1tjSF0y
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0014
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0014
+
+> <r_epik_State_Penalty>
+  0.0009
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.000905429396854013
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+19.008686
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+core,31214600-1
+
+> <s_m_subgroup_title>
+ligprep_1-out1
+
+> <s_m_subgroupid>
+ligprep_1-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
+core,31214600
+                    3D
+ Schrodinger Suite 2020-1.
+ 22 23  0  0  1  0            999 V2000
+   -0.7121   -1.1665    0.0000 C   0  0  0  0  0  0
+   -2.0659   -1.2287    0.0000 N   0  0  0  0  0  0
+   -2.7519   -0.0592    0.0000 C   0  0  0  0  0  0
+   -2.1392    1.2010   -0.0000 C   0  0  0  0  0  0
+   -0.7352    1.2273   -0.0000 C   0  0  0  0  0  0
+    0.0044    0.0312    0.0000 C   0  0  0  0  0  0
+    1.3830   -0.0504    0.0000 O   0  0  0  0  0  0
+    2.1446    1.1516    0.0000 C   0  0  0  0  0  0
+   -3.8267   -0.1616    0.0000 H   0  0  0  0  0  0
+   -0.2212    2.1755   -0.0000 H   0  0  0  0  0  0
+    3.2061    0.9038    0.0000 H   0  0  0  0  0  0
+    1.9457    1.7516    0.8893 H   0  0  0  0  0  0
+   -0.1936   -2.1142    0.0000 H   0  0  0  0  0  0
+    1.9457    1.7516   -0.8893 H   0  0  0  0  0  0
+   -6.0901    4.2366   -0.0000 F   0  0  0  0  0  0
+   -4.8219    3.8970   -0.0000 C   0  0  0  0  0  0
+   -4.3685    2.5737   -0.0000 C   0  0  0  0  0  0
+   -2.9765    2.4468   -0.0000 C   0  0  0  0  0  0
+   -2.2344    4.0295   -0.0000 S   0  0  0  0  0  0
+   -3.7804    4.8084   -0.0000 C   0  0  0  0  0  0
+   -5.0456    1.7329   -0.0000 H   0  0  0  0  0  0
+   -3.8489    5.8861   -0.0000 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  2  0  0  0
+  1 13  1  0  0  0
+  2  3  2  0  0  0
+  3  4  1  0  0  0
+  3  9  1  0  0  0
+  4  5  2  0  0  0
+  4 18  1  0  0  0
+  5  6  1  0  0  0
+  5 10  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+  8 11  1  0  0  0
+  8 12  1  0  0  0
+  8 14  1  0  0  0
+ 15 16  1  0  0  0
+ 16 20  2  0  0  0
+ 16 17  1  0  0  0
+ 17 18  2  0  0  0
+ 17 21  1  0  0  0
+ 18 19  1  0  0  0
+ 19 20  1  0  0  0
+ 20 22  1  0  0  0
+M  END
+> <i_m_ct_stereo_status>
+1
+
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+3865
+
+> <s_m_entry_name>
+ligands.1292
+
+> <s_pdb_PDB_TITLE>
+P38 KINASE CRYSTAL STRUCTURE IN COMPLEX WITH SMALL MOLECULE INHIBITOR
+
+> <s_pdb_PDB_ID>
+1W7H
+
+> <i_pdb_PDB_Model>
+1
+
+> <r_pdb_PDB_CRYST1_a>
+45.771
+
+> <r_pdb_PDB_CRYST1_b>
+87.101
+
+> <r_pdb_PDB_CRYST1_c>
+126.337
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+02-SEP-04
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <r_pdb_PDB_RESOLUTION>
+2.21
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+7
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/home/agruzka/frag_test/1w7h
+
+> <s_m_Source_File>
+ligands.sdf
+
+> <i_m_Source_File_Index>
+1292
+
+> <r_f3d_energy>
+6.02867
+
+> <i_f3d_flags>
+0
+
+> <i_rge_num_r_groups>
+1
+
+> <r_rge_occupation_R1>
+1
+
+> <s_rge_R1>
+31214600
+
+> <s_rge_R1_s_m_title>
+31214600
+
+> <s_rge_R1_s_m_entry_id>
+17372
+
+> <s_rge_R1_s_m_entry_name>
+eMol_BB_r-groups.715
+
+> <s_rge_R1_s_m_smiles>
+[*]c1cc(F)cs1
+
+> <b_rge_R1_b_sd_chiral_flag>
+0
+
+> <i_rge_R1_i_sd_version>
+0
+
+> <s_rge_R1_s_m_Source_File>
+eMol_BB_r-groups-dedup.mae
+
+> <i_rge_R1_i_m_ct_enhanced_stereo_status>
+1
+
+> <i_rge_R1_i_m_Source_File_Index>
+580
+
+> <s_rge_R1_s_m_Source_Path>
+/Users/konze/projects/pathfinder/r-groups
+
+> <s_rge_R1_s_sd_Source_Path>
+/Users/konze/projects/pathfinder/reactant sets/eMolecules
+
+> <s_rge_R1_s_sd_Source_File>
+eMol BB r-groups.mae
+
+> <i_rge_R1_i_sd_Source_File_Index>
+715
+
+> <r_rge_R1_r_sd_MW>
+102.13
+
+> <i_rge_R1_i_sd_RB>
+0
+
+> <i_rge_R1_i_sd_HeavyAtomCount>
+6
+
+> <i_rge_R1_i_sd_HBA>
+0
+
+> <i_rge_R1_i_sd_HBD>
+0
+
+> <r_rge_R1_r_sd_PSA>
+28.24
+
+> <i_rge_R1_i_sd_ChiralCenterCount>
+0
+
+> <i_rge_R1_i_sd_ChiralCenterCountAllPossible>
+0
+
+> <i_rge_R1_i_sd_RingCount>
+1
+
+> <r_rge_R1_r_sd_AlogP>
+1.3329
+
+> <s_rge_R1_s_sd_subgroup_title>
+eMol BB r-groups
+
+> <s_rge_R1_s_sd_subgroupid>
+eMol BB r-groups
+
+> <i_rge_R1_i_sd_subgroup_collapsed>
+0
+
+> <s_rge_R1_s_sd_Unique_SMILES_Stereo>
+Fc1ccsc1
+
+> <i_rge_R1_i_sd_canvasUID>
+656
+
+> <s_rge_R1_s_canvas_Unique_SMILES_Stereo>
+Fc1ccsc1
+
+> <s_m_job_name>
+ligprep_1
+
+> <s_m_source_file>
+ligprep_1.maegz
+
+> <i_m_source_file_index>
+1292
+
+> <i_lp_mmshare_version>
+49012
+
+> <s_epik_input>
+W0NIM11PYyhbY0hdMSlbY0hdbltjSF1jMS1jKFtjSF1jMkYpc1tjSF0y
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzIwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0014
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0014
+
+> <r_epik_State_Penalty>
+  0.0009
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.000905429396854013
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+19.008686
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+core,31214600-1
+
+> <s_m_subgroup_title>
+ligprep_1-out1
+
+> <s_m_subgroupid>
+ligprep_1-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
