@@ -1,5 +1,5 @@
 import os
-import glob
+#import glob
 # from drug_learning.two_dimensions.Helpers import paralel as pl
 
 def split_in_chunks(sdf_file, n_chunks):
