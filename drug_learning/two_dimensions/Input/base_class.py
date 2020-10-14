@@ -4,6 +4,33 @@ from rdkit import Chem
 from drug_learning.two_dimensions.Errors import errors as er
 from drug_learning.two_dimensions.Output import output as ot
 
+
+class Mol2MolSupplier():
+    def __init__(self, file_input, sanitize=True):
+        self.file_input = file_input
+        self.sanitize = sanitize
+
+    def __iter__(self):
+        with open(self.file_input, 'r') as f:
+            line = f.readline()
+            while not f.tell() == os.fstat(f.fileno()).st_size:
+                if line.startswith("@<TRIPOS>MOLECULE"):
+                    mol = []
+                    mol.append(line)
+                    line = f.readline()
+                    while not line.startswith("@<TRIPOS>MOLECULE"):
+                        mol.append(line)
+                        line = f.readline()
+                        if f.tell() == os.fstat(f.fileno()).st_size:
+                            mol.append(line)
+                            break
+                    mol[-1] = mol[-1].rstrip() # removes blank line at file end
+                    block = ",".join(mol).replace(',', '')
+                    mol = Chem.MolFromMol2Block(block, sanitize=self.sanitize)
+                    if mol is not None:
+                        yield mol
+
+
 class Fingerprint(ot.Saver):
 
     fp_name = ""
@@ -14,15 +41,22 @@ class Fingerprint(ot.Saver):
         self.features = None
         self.fitted = False
 
-    def fit(self, input_sdf):
-        (self.filename, ext) = os.path.splitext(input_sdf)
-        self.structures = Chem.SDMolSupplier(input_sdf)
+    def fit(self, input_file):
+        (self.filename, ext) = os.path.splitext(input_file)
+        if ext == ".mol2":
+            self.structures = Mol2MolSupplier(input_file)
+        else:
+            # assume for the moment that any file that is not mol2 will be an
+            # sdf, might want stricter parsing if more formats are to be
+            # supported
+            self.structures = (mol for mol in Chem.SDMolSupplier(input_file) if mol is not None) 
         self.fitted = True
         return self.structures
 
     def transform(self):
         if not self.fitted:
             raise er.NotFittedException("Must fit the model before transform")
+
 
     def clean(self):
         return self.features

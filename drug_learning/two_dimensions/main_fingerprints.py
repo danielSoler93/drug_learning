@@ -30,6 +30,7 @@ def main():
     format_options = {'to_csv' : opt.to_csv, 'to_parquet' : opt.to_parquet, 'to_feather' : opt.to_feather,
                      'to_hdf' : opt.to_hdf, 'to_pickle' : opt.to_pickle}
 
+
     pl.parallelize(sf.sdf_to_fingerprint, input_sdfs, opt.n_workers, fp_list = fp_options, urdkit_voc = opt.voc, format_dict = format_options )
 
 if __name__ == "__main__":
