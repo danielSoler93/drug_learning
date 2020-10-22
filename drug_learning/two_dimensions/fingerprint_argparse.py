@@ -8,7 +8,7 @@ def parse_args(parser):
         parser.add_argument('-r', "--ray",
                             dest = "ray",
                             action ='store_true',
-                            help = "Parallelixe with ray")
+                            help = "Parallelize with ray")
 
         parser.add_argument('-mo', '--morgan',
                             dest ="morgan",
