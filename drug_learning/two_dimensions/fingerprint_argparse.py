@@ -5,12 +5,10 @@ def parse_args(parser):
                             type=str,
                             help="Input sdf file(s)")
 
-        parser.add_argument('-n', "--nworkers",
-                            dest = "n_workers",
-                            action ='store',
-                            default = 1,
-                            type = int,
-                            help = "Number of workers to parallelize the sdf transform into fingerprints")
+        parser.add_argument('-r', "--ray",
+                            dest = "ray",
+                            action ='store_true',
+                            help = "Parallelixe with ray")
 
         parser.add_argument('-mo', '--morgan',
                             dest ="morgan",

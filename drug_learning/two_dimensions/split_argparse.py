@@ -9,10 +9,3 @@ def parse_args(parser):
                         default = 1000,
                         type = int,
                         help = "Number of molecules in each chunk.")
-
-    parser_split.add_argument('-nsp', "--nworkers-sp",
-                        dest = "nw_sp",
-                        action ='store',
-                        default = 1,
-                        type = int,
-                        help = "Number of workers to parallelize the split into chunks.")
