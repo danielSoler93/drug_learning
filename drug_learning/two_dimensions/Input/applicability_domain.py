@@ -4,9 +4,11 @@ from scipy.spatial import distance
 
 class ApplicabilityDomain():
 
-    def __init__(self):
+    def __init__(self, tresh=5):
         self.x_train = None
         self.x_test = None
+        self.fitted = None
+        self.tresh = tresh
 
     def fit(self, x_train):
         self.x_train = x_train
@@ -35,9 +37,13 @@ class ApplicabilityDomain():
         all_d = [sum(all_allowed[i]) for i, d in enumerate(d_no_ii)]
         self.thresholds = np.divide(all_d, n_allowed) #threshold computation
         self.thresholds[np.isinf(self.thresholds)] = min(self.thresholds) #setting to the minimum value where infinity
+        self.fitted = True
         return self.thresholds
 
     def predict(self, x_test):
+        print(f"Molecules before applicability domain filtering {x_test.shape[0]}")
+        assert isinstance(x_test, np.ndarray), "x_test needs to be a numpy array"
+        assert self.fitted, "Need to perform object.fit(x_train) before"
         self.x_test = x_test
         test_names= ["sample_{}".format(i) for i in range(self.x_test.shape[0])]
         d_train_test = np.array([distance.cdist([x], self.x_train) for x in self.x_test])
@@ -48,4 +54,15 @@ class ApplicabilityDomain():
             self.n_insiders.append(len(idxs))
 
         self.n_insiders = np.array(self.n_insiders)
-        return self.n_insiders
+        idx = np.array([True if insiders > self.tresh else False for insiders in self.n_insiders])
+        inside_domain = x_test[idx, :]
+        print(f"Molecules after applicability domain filtering {inside_domain.shape[0]}")
+        return inside_domain
+
+    def save(self, output="ad"):
+        np.save(output, self)
+
+    def load(self, object):
+        return np.load(object, allow_pickle=True).item()
+
+
