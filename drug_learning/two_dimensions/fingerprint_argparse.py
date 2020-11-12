@@ -1,14 +1,10 @@
 import drug_learning.two_dimensions.Input.fingerprints as fp
 
 def parse_args(parser):
+
         parser.add_argument("infile",
                             type=str,
                             help="Input sdf file(s)")
-
-        parser.add_argument('-r', "--ray",
-                            dest = "ray",
-                            action ='store_true',
-                            help = "Parallelize with ray")
 
         parser.add_argument('-mo', '--morgan',
                             dest ="morgan",

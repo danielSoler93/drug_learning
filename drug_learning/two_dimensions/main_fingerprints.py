@@ -10,21 +10,25 @@ import drug_learning.two_dimensions.Helpers.parallel as pl
 import drug_learning.two_dimensions.Errors.errors as er
 import drug_learning.two_dimensions.fingerprint_argparse as fp_arg
 import drug_learning.two_dimensions.split_argparse as sp_arg
+import drug_learning.two_dimensions.parallel_argparse as pl_arg
 
 def get_parser():
     parser = argparse.ArgumentParser(description="Specify the fingerprints and the file format to which the user wants the sdf file to be converted.")
     fp_arg.parse_args(parser)
     sp_arg.parse_args(parser)
+    pl_arg.parse_args(parser)
     return parser
 
 def main():
     parser = get_parser()
     opt = parser.parse_args()
-
     input_sdfs = glob.glob(opt.infile)
 
     if opt.ray:
-        ray.init(address=os.environ.get("address"), _redis_password=os.environ.get("password"))
+        if not opt.n_cpus:
+            ray.init(address=os.environ.get("address"), _redis_password=os.environ.get("password"))
+        else:
+            ray.init(num_cpus=opt.n_cpus))
 
     if opt.split:
         if opt.ray:

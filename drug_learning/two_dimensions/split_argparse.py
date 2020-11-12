@@ -1,9 +1,11 @@
 def parse_args(parser):
-    subparsers = parser.add_subparsers(dest = "split")
 
-    parser_split = subparsers.add_parser("split", help = "Split the input sdf files into chunks" )
+    parser.add_argument("-s", "-split",
+                        dest = "split",
+                        action ='store_true',
+                        help = "Split the input sdf files into chunks.")
 
-    parser_split.add_argument('-ch', "--chunk",
+    parser.add_argument('-ch', "--chunk",
                         dest = "n_chunks",
                         action ='store',
                         default = 1000,
